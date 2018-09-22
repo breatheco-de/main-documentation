@@ -20,7 +20,7 @@ This repository intends to describe how the entire BreatheCode repositories are 
 2. Tools:
   - [C9 Plugin](https://github.com/breatheco-de/c9-plugin): Enhance c9 with automatic breathecode integrations.
   - [BreatheCode CLI](https://github.com/breatheco-de/breathecode-cli): A small CLI to connect to BreatheCode thru the command line.
-3. Libraries: Very focused libraries to resolve recurrin issues during developments.
+3. Libraries: Very focused libraries to resolve recurring issues during developments.
   - [React Session](https://github.com/breatheco-de/react-session): Allows persistent sessions in react, compatible with react router.
   - [React Notifier](https://github.com/breatheco-de/react-notifier): Notification library for React Applications.
   - [React Flux Dash](https://github.com/4GeeksAcademy/react-flux-dash): Flux implementation for React.js
@@ -29,7 +29,8 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - [Teacher Web Client](https://github.com/breatheco-de/teacher-client):
   - [Admin Web Client](https://github.com/breatheco-de/admin-client):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc5NDU4MzAsLTEzOTMzNDI2MjUsLT
-EzMTE4NzgwMzcsNTA2NDIxODU3LC0xMDkyMjkwNDY4LDIwMTQ1
-MjY1MDksMTUwMTcyNzAwNywxOTc1MDI1NzM1XX0=
+eyJoaXN0b3J5IjpbLTgwMDEzMDkyOSwtMTk4Nzk0NTgzMCwtMT
+M5MzM0MjYyNSwtMTMxMTg3ODAzNyw1MDY0MjE4NTcsLTEwOTIy
+OTA0NjgsMjAxNDUyNjUwOSwxNTAxNzI3MDA3LDE5NzUwMjU3Mz
+VdfQ==
 -->
