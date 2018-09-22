@@ -26,10 +26,10 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - [React Flux Dash](https://github.com/4GeeksAcademy/react-flux-dash): Flux implementation for React.js
 5. Web Applications:
   - [Student Web Client](https://github.com/breatheco-de/desktop-client):
-  - Teacher Web Client:
-  - Admin Web Client:
+  - [Teacher Web Client](https://github.com/breatheco-de/teacher-client):
+  - [Admin Web Client](https://github.com/breatheco-de/admin-client):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM5NDI3MDEsLTEzOTMzNDI2MjUsLT
+eyJoaXN0b3J5IjpbLTE5ODc5NDU4MzAsLTEzOTMzNDI2MjUsLT
 EzMTE4NzgwMzcsNTA2NDIxODU3LC0xMDkyMjkwNDY4LDIwMTQ1
 MjY1MDksMTUwMTcyNzAwNywxOTc1MDI1NzM1XX0=
 -->
