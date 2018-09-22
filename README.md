@@ -1,7 +1,8 @@
 # Welcome to BreatheCode
 
-Hello, my name is [Alejandro Sanchez](https://alesanchezr.com) I'm the founder of BreatheCode, thank you for taking the time to read this!  
-BreatheCode's mission is to **accelerate the way junior developers learn and evolve** using technology.
+Hello, my name is :blush: [Alejandro Sanchez](https://alesanchezr.com) I'm the founder of BreatheCode, thank you for taking the time to read this!  :smile:
+
+>> BreatheCode's mission is to **accelerate the way junior developers learn and evolve** using technology.
 
 To accomplish that we use all the possible means of technology.
 
@@ -29,8 +30,8 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
   - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheach-sheets, mock api's, etc).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAzMzg1NDgsLTE5ODc5NDU4MzAsLT
-EzOTMzNDI2MjUsLTEzMTE4NzgwMzcsNTA2NDIxODU3LC0xMDky
-MjkwNDY4LDIwMTQ1MjY1MDksMTUwMTcyNzAwNywxOTc1MDI1Nz
-M1XX0=
+eyJoaXN0b3J5IjpbMTI3Mzc0MjY5MCwtMTc4MDMzODU0OCwtMT
+k4Nzk0NTgzMCwtMTM5MzM0MjYyNSwtMTMxMTg3ODAzNyw1MDY0
+MjE4NTcsLTEwOTIyOTA0NjgsMjAxNDUyNjUwOSwxNTAxNzI3MD
+A3LDE5NzUwMjU3MzVdfQ==
 -->
