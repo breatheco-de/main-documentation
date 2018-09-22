@@ -1,7 +1,7 @@
 # Welcome to BreatheCode
 
-Hello, my name is [Alejandro Sanchez](alesanchezr) I'm the founder of BreatheCode. Thank you for taking the time to read this!
-BreatheCode's mission is to create tools to improve the way software is taught. teach how to code in a professional way.
+Hello, my name is [Alejandro Sanchez](https://alesanchezr.com) I'm the founder of BreatheCode, thank you for taking the time to read this!  
+BreatheCode's mission is to create tools to improve the way code is taught. It is a technical approach to teaching that combines coding+teaching experience to find the beast 
 
 You can contribute to BreatheCode in two different ways:
 - **BreatheCode Coder**: Join the development of any particular project, the majority of our repositories are being actively maintain and with new versions on the pipeline. Read this [if you want to become a **BreatheCode Coder**](#).
@@ -25,5 +25,5 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - Teacher Web Client:
   - Admin Web Client:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzM4MTA1MywxOTc1MDI1NzM1XX0=
+eyJoaXN0b3J5IjpbLTE1MzYxNTE0MjAsMTk3NTAyNTczNV19
 -->
