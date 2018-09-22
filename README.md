@@ -3,7 +3,7 @@
 Our mission is to create tools to teach how to code in a professional way.
 
 You can contribute to BreatheCode in two different ways:
-- *Coding*: Join the development of any particular project, the majority of our repositories are being actively mantain and with new versions on the pipeline.
+- **Coding**: Join the development of any particular project, the majority of our repositories are being actively mantain and with new versions on the pipeline.
 - *Writing*: Help us explain the projects, how to they work and how to use them. 
 - *Report bugs or feature requests*: Report issues you find on the application or any improvements you would like.
 - *Debugging*: There are a lot of issues revolving around the libraries, you can choose any bug you would like to debug
