@@ -3,10 +3,10 @@
 Our mission is to create tools to teach how to code in a professional way.
 
 You can contribute to BreatheCode in two different ways:
-- **BreatheCode Coder**: Join the development of any particular project, the majority of our repositories are being actively maintain and with new versions on the pipeline. [Here is a more detailed guide you should read](#) if you want to become a **BreatheCode Coder**.
+- **BreatheCode Coder**: Join the development of any particular project, the majority of our repositories are being actively maintain and with new versions on the pipeline. Read this [if you want to become a **BreatheCode Coder**](#).
 - **BreatheCode Writer**: Help us explain everything to the community: What projects are available? how do they work? how to use them? Here is a more detailed guide you should read if you want to [become a **BreatheCode Writer**](#).
-- *Report bugs or feature requests*: Report issues you find on the application or any improvements you would like.
-- *Debugging*: There are a lot of issues revolving around the libraries, you can choose any bug you would like to debug
+- **Report bugs or feature requests**: Report issues you find on the application or any improvements you would like. Here is how to report a bug or request a new feature on any of **BreatheCode projects**.
+- **Debugging**: There are a lot of issues revolving around our libraries, it is really hard ot 
 
 This repository intends to describe how the entire BreatheCode repositories are distributed and you can contribute to them.
 
@@ -24,5 +24,5 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - Teacher Web Client:
   - Admin Web Client:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxODg2NDgzLDE5NzUwMjU3MzVdfQ==
+eyJoaXN0b3J5IjpbMTk3MTc0MDI2LDE5NzUwMjU3MzVdfQ==
 -->
