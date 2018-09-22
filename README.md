@@ -19,7 +19,7 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheach-sheets, mock api's, etc).
 2. Tools:
   - [C9 Plugin](https://github.com/breatheco-de/c9-plugin): Enhance c9 with automatic breathecode integrations.
-  - BreatheCode CLI: A small CLI to connect to breathecode thru the command line.
+  - [BreatheCode CLI](https://github.com/breatheco-de/breathecode-cli): A small CLI to connect to BreatheCode thru the command line.
 3. Libraries: Very focused libraries to resolve recurrin issues during developments.
   - React Session: Allows persisten sessions in react, compatibel with react router.
   - React Flux Dash: Flux implementation for React.js
@@ -28,7 +28,7 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - Teacher Web Client:
   - Admin Web Client:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE4NzgwMzcsNTA2NDIxODU3LC0xMD
-kyMjkwNDY4LDIwMTQ1MjY1MDksMTUwMTcyNzAwNywxOTc1MDI1
-NzM1XX0=
+eyJoaXN0b3J5IjpbLTEzOTMzNDI2MjUsLTEzMTE4NzgwMzcsNT
+A2NDIxODU3LC0xMDkyMjkwNDY4LDIwMTQ1MjY1MDksMTUwMTcy
+NzAwNywxOTc1MDI1NzM1XX0=
 -->
