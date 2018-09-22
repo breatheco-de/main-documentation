@@ -3,7 +3,7 @@
 Hello, my name is [Alejandro Sanchez](https://alesanchezr.com) I'm the founder of BreatheCode, thank you for taking the time to read this!  
 BreatheCode's mission is to **accelerate the way junior developers learn and evolve** using technology.
 
-To accomplish that
+To accomplish that we use all the possible means of technology.
 
 ## How to contribute
 You can contribute to BreatheCode in two different ways:
@@ -28,6 +28,6 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - Teacher Web Client:
   - Admin Web Client:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIyOTA0NjgsMjAxNDUyNjUwOSwxNT
-AxNzI3MDA3LDE5NzUwMjU3MzVdfQ==
+eyJoaXN0b3J5IjpbNTA2NDIxODU3LC0xMDkyMjkwNDY4LDIwMT
+Q1MjY1MDksMTUwMTcyNzAwNywxOTc1MDI1NzM1XX0=
 -->
