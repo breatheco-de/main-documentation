@@ -15,10 +15,10 @@ You can contribute to BreatheCode in two different ways:
 This repository intends to describe how the entire BreatheCode repositories are distributed and you can contribute to them.
 
 1. API
-  - Platform API: The API for the LMS, it manages students, courses, etc.
-  - Assets API: Amazing resources for sudents (infographics, lessons, cheach-sheets, mock api's, etc).
+  - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
+  - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheach-sheets, mock api's, etc).
 2. Tools:
-  - C9 Plugin: Enhance c9 with automatic breathecode integrations.
+  - [C9 Plugin](https://github.com/breatheco-de/c9-plugin): Enhance c9 with automatic breathecode integrations.
   - BreatheCode CLI: A small CLI to connect to breathecode thru the command line.
 3. Libraries: Very focused libraries to resolve recurrin issues during developments.
   - React Session: Allows persisten sessions in react, compatibel with react router.
@@ -28,6 +28,7 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - Teacher Web Client:
   - Admin Web Client:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2NDIxODU3LC0xMDkyMjkwNDY4LDIwMT
-Q1MjY1MDksMTUwMTcyNzAwNywxOTc1MDI1NzM1XX0=
+eyJoaXN0b3J5IjpbLTEzMTE4NzgwMzcsNTA2NDIxODU3LC0xMD
+kyMjkwNDY4LDIwMTQ1MjY1MDksMTUwMTcyNzAwNywxOTc1MDI1
+NzM1XX0=
 -->
