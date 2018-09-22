@@ -18,7 +18,7 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
   - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheach-sheets, mock api's, etc).
 2. Tools:
-  - [C9 Plugin](https://github.com/breatheco-de/c9-plugin): Enhance c9 with automatic breathecode integrations.
+  - [C9 Plugin](https://github.com/breatheco-de/c9-plugin): Enhance c9 with automatic BreatheCode integrations.
   - [BreatheCode CLI](https://github.com/breatheco-de/breathecode-cli): A small CLI to connect to BreatheCode thru the command line.
 3. Libraries: Very focused libraries to resolve recurring issues during developments.
   - [React Session](https://github.com/breatheco-de/react-session): Allows persistent sessions in react, compatible with react router.
@@ -29,8 +29,8 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - [Teacher Web Client](https://github.com/breatheco-de/teacher-client):
   - [Admin Web Client](https://github.com/breatheco-de/admin-client):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDEzMDkyOSwtMTk4Nzk0NTgzMCwtMT
-M5MzM0MjYyNSwtMTMxMTg3ODAzNyw1MDY0MjE4NTcsLTEwOTIy
-OTA0NjgsMjAxNDUyNjUwOSwxNTAxNzI3MDA3LDE5NzUwMjU3Mz
-VdfQ==
+eyJoaXN0b3J5IjpbNzMzNDAwNDcsLTE5ODc5NDU4MzAsLTEzOT
+MzNDI2MjUsLTEzMTE4NzgwMzcsNTA2NDIxODU3LC0xMDkyMjkw
+NDY4LDIwMTQ1MjY1MDksMTUwMTcyNzAwNywxOTc1MDI1NzM1XX
+0=
 -->
