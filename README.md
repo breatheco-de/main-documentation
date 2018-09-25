@@ -7,7 +7,8 @@ Hello, my name is :blush: [Alejandro Sanchez](https://alesanchezr.com) I'm the f
 ### Right now, the project is divided in three main products:
 - Tools: Stuff you can download to learn and build software faster.
 - Libraries: Some libraries targeted to fix recurrent coding challenges like: Session Management, Notifications, etc.
-- Apps: We build software
+- Apps: We build software for teaching purposes only.
+- APIs: Assets for teachers.
 
 ## How to contribute
 You can contribute to BreatheCode in two different ways:
@@ -33,7 +34,7 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
   - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheach-sheets, mock api's, etc).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTIxODM2MiwxMjczNzQyNjkwLC0xNz
+eyJoaXN0b3J5IjpbMTY3Njg0MjU5OCwxMjczNzQyNjkwLC0xNz
 gwMzM4NTQ4LC0xOTg3OTQ1ODMwLC0xMzkzMzQyNjI1LC0xMzEx
 ODc4MDM3LDUwNjQyMTg1NywtMTA5MjI5MDQ2OCwyMDE0NTI2NT
 A5LDE1MDE3MjcwMDcsMTk3NTAyNTczNV19
