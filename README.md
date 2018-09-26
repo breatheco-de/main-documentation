@@ -38,15 +38,20 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
   - [Student Web Client](https://github.com/breatheco-de/desktop-client): BreatheCode's main website for displaying the courses.
   - [Teacher Web Client](https://github.com/breatheco-de/teacher-client): Teachers are able to manage the pace of their cohorts, review students deliverables, etc.
   - [Admin Web Client](https://github.com/breatheco-de/admin-client): Manage BreathCode students, teachers, etc.
-
+ ```txt
+ :blue_book: Technologies: Gatsby.js, React.js
+ ```
 6. API's:
   - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
   - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheat-sheets, mock api's, etc).
+ ```txt
+ :blue_book: Technologies: PHP, SlimPHP, EloquentORM, MySQL, SQLite, JSON, Static Files, REST.
+ ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4ODM5NzcsLTE4MDA1ODY5NDAsLTEzNj
-QxMTQ2NzEsMTUxNDEyNDUxMCwxNTU3NDU2NzcxLDE4NjgxNTM1
-ODAsMTY3Njg0MjU5OCwxMjczNzQyNjkwLC0xNzgwMzM4NTQ4LC
-0xOTg3OTQ1ODMwLC0xMzkzMzQyNjI1LC0xMzExODc4MDM3LDUw
-NjQyMTg1NywtMTA5MjI5MDQ2OCwyMDE0NTI2NTA5LDE1MDE3Mj
-cwMDcsMTk3NTAyNTczNV19
+eyJoaXN0b3J5IjpbMTgwNjU1NTk1NSwtMTgwMDU4Njk0MCwtMT
+M2NDExNDY3MSwxNTE0MTI0NTEwLDE1NTc0NTY3NzEsMTg2ODE1
+MzU4MCwxNjc2ODQyNTk4LDEyNzM3NDI2OTAsLTE3ODAzMzg1ND
+gsLTE5ODc5NDU4MzAsLTEzOTMzNDI2MjUsLTEzMTE4NzgwMzcs
+NTA2NDIxODU3LC0xMDkyMjkwNDY4LDIwMTQ1MjY1MDksMTUwMT
+cyNzAwNywxOTc1MDI1NzM1XX0=
 -->
