@@ -33,7 +33,7 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
   - [React Flux Dash](https://github.com/4GeeksAcademy/react-flux-dash): Flux implementation for React.js
 
 4. Web Applications:
-| Project | Description | Technologi
+| Project | Description | Technologies |
 | [CMS](https://github.com/breatheco-de/desktop-client) | This is were most of the community content is being published: Lessons, Error Explanations and "How to's". | Gatsby.js, CSS, React.js, Markdown, GIT |
 
   - [Student Web Client](https://github.com/breatheco-de/desktop-client): BreatheCode's main website for displaying the courses.
@@ -49,7 +49,7 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
  :blue_book: Technologies: PHP, SlimPHP, EloquentORM, MySQL, SQLite, JSON, Static Files, REST.
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDYzNjU0NiwtMTgwMDU4Njk0MCwtMT
+eyJoaXN0b3J5IjpbLTE0MDQzNTcwNCwtMTgwMDU4Njk0MCwtMT
 M2NDExNDY3MSwxNTE0MTI0NTEwLDE1NTc0NTY3NzEsMTg2ODE1
 MzU4MCwxNjc2ODQyNTk4LDEyNzM3NDI2OTAsLTE3ODAzMzg1ND
 gsLTE5ODc5NDU4MzAsLTEzOTMzNDI2MjUsLTEzMTE4NzgwMzcs
