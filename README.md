@@ -19,7 +19,9 @@ Great! You can contribute to BreatheCode in four different ways:
 - **BreatheCode Fixer**: There are a lot of issues revolving around our libraries, it is really hard fix them all and more keep showing up :disappointed_relieved: Here is a small guide on how to help us solve bugs!
 
 ## Our current projects
-Like I said above, BreatheCode is divided in 4 types of projects:
+
+These are the 4 types of projects in which the BreatheCode is divided:
+
 ### 1. Tools
 In real life you use a lot of tools to code, like: Git, NPM, etc. We have proposed 2 additional tools for junior developers:
 
@@ -28,8 +30,12 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
  | [C9 Plugin](https://github.com/breatheco-de/c9-plugin) | Cloud 9 is a great IDE for junior developers because it allow you to work with very few configurations no an isolated machine. We have created a plugin to enhance the Cloud 9 coding IDE and integrated with all the other BreatheCode projects. | Node.js, Bash, JSON |
 | [BreatheCode CLI](https://github.com/breatheco-de/breathecode-cli) | Command Line interface to connect with lots of useful stuff like access to boilerplates, exercises, builders, etc. | Node.js Bash, JSON |
 
-### 2. Libraries: Very focused libraries to resolve recurring issues during developments.
-  - [React Session](https://github.com/breatheco-de/react-session): Allows persistent sessions in react, compatible with react router.
+### 2. Libraries: 
+Very focused libraries to resolve recurring issues during developments.
+
+| Project 		| Description | Technologies |
+| ---------- 	| -------------- | ---------------- |
+[React Session](https://github.com/breatheco-de/react-session) | Allows persistent sessions in react, compatible with react router. |
   - [React Notifier](https://github.com/breatheco-de/react-notifier): Notification library for React Applications.
   - [React Flux Dash](https://github.com/4GeeksAcademy/react-flux-dash): Flux implementation for React.js
 
@@ -42,18 +48,18 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
 | [Teacher Web Client](https://github.com/breatheco-de/teacher-client) | Teachers are able to manage the pace of their cohorts, review students deliverables, etc. | React.js, CSS, Sass, HTML |
  | [Admin Web Client](https://github.com/breatheco-de/admin-client) | Manage BreathCode students, teachers, etc. | React.js, CSS, Sass, HTML |
 
-#### 4. API's:
+### 4. API's:
 
 | Project | Description | Technologies |
 | ---------- 	| -------------- | ---------------- |
 | [Platform API](https://api.breatheco.de) | The API for the LMS, it manages students, courses, etc. | EloquentORM, PHP, SlimPHP, MySQL, JSON, REST |
 | [Assets API](https://assets.breatheco.de) | Amazing resources for students (infographics, lessons, cheat-sheets, mock api's, etc). | PHP, Markdown, SlimPHP, SQLite, MySQL, Static Files, REST |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2MzQzMDQ2LC04ODQzMDc4NywtMjA3OT
-g5ODE0MSw5MjQwNDQ2OSwtMTgwMDU4Njk0MCwtMTM2NDExNDY3
-MSwxNTE0MTI0NTEwLDE1NTc0NTY3NzEsMTg2ODE1MzU4MCwxNj
-c2ODQyNTk4LDEyNzM3NDI2OTAsLTE3ODAzMzg1NDgsLTE5ODc5
-NDU4MzAsLTEzOTMzNDI2MjUsLTEzMTE4NzgwMzcsNTA2NDIxOD
-U3LC0xMDkyMjkwNDY4LDIwMTQ1MjY1MDksMTUwMTcyNzAwNywx
-OTc1MDI1NzM1XX0=
+eyJoaXN0b3J5IjpbLTIwMjQ0NzM5MjEsLTg4NDMwNzg3LC0yMD
+c5ODk4MTQxLDkyNDA0NDY5LC0xODAwNTg2OTQwLC0xMzY0MTE0
+NjcxLDE1MTQxMjQ1MTAsMTU1NzQ1Njc3MSwxODY4MTUzNTgwLD
+E2NzY4NDI1OTgsMTI3Mzc0MjY5MCwtMTc4MDMzODU0OCwtMTk4
+Nzk0NTgzMCwtMTM5MzM0MjYyNSwtMTMxMTg3ODAzNyw1MDY0Mj
+E4NTcsLTEwOTIyOTA0NjgsMjAxNDUyNjUwOSwxNTAxNzI3MDA3
+LDE5NzUwMjU3MzVdfQ==
 -->
