@@ -21,8 +21,8 @@ Great! You can contribute to BreatheCode in four different ways:
 ## Our current projects
 Like I said above, BreatheCode is divided in 4 types of projects:
 ### 1. Tools
-Tools are stuff that we build to use during coding, basically 
-  - [C9 Plugin](https://github.com/breatheco-de/c9-plugin): Enhance c9 with automatic BreatheCode integrations.
+In real life you use a lot of tools to code, like: Git, NPM, etc. We have proposed 2 additional tools for junior developers:
+  - [C9 Plugin](https://github.com/breatheco-de/c9-plugin): Cloud 9 i c9 with automatic BreatheCode integrations.
   - [BreatheCode CLI](https://github.com/breatheco-de/breathecode-cli): A small CLI to connect to BreatheCode thru the command line.
 3. Libraries: Very focused libraries to resolve recurring issues during developments.
   - [React Session](https://github.com/breatheco-de/react-session): Allows persistent sessions in react, compatible with react router.
@@ -36,9 +36,9 @@ Tools are stuff that we build to use during coding, basically
   - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
   - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheach-sheets, mock api's, etc).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzQ1Njc3MSwxODY4MTUzNTgwLDE2Nz
-Y4NDI1OTgsMTI3Mzc0MjY5MCwtMTc4MDMzODU0OCwtMTk4Nzk0
-NTgzMCwtMTM5MzM0MjYyNSwtMTMxMTg3ODAzNyw1MDY0MjE4NT
-csLTEwOTIyOTA0NjgsMjAxNDUyNjUwOSwxNTAxNzI3MDA3LDE5
-NzUwMjU3MzVdfQ==
+eyJoaXN0b3J5IjpbMTY2OTk2OTcwOSwxNTU3NDU2NzcxLDE4Nj
+gxNTM1ODAsMTY3Njg0MjU5OCwxMjczNzQyNjkwLC0xNzgwMzM4
+NTQ4LC0xOTg3OTQ1ODMwLC0xMzkzMzQyNjI1LC0xMzExODc4MD
+M3LDUwNjQyMTg1NywtMTA5MjI5MDQ2OCwyMDE0NTI2NTA5LDE1
+MDE3MjcwMDcsMTk3NTAyNTczNV19
 -->
