@@ -1,4 +1,10 @@
-# Welcome to BreatheCode
+<p align="center">
+  <img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,128">
+</p>
+
+<p>
+    <h2 align="center"> Welcome to BreatheCode </h2>
+</p>
 
 Hello, my name is :blush: [Alejandro Sanchez](https://alesanchezr.com) I'm the founder of BreatheCode, thank you for taking the time to read this!  :smile:
 
@@ -57,11 +63,11 @@ Very focused libraries to resolve recurring issues during developments.
 | [Platform API](https://api.breatheco.de) | The API for the LMS, it manages students, courses, etc. | EloquentORM, PHP, SlimPHP, MySQL, JSON, REST |
 | [Assets API](https://assets.breatheco.de) | Amazing resources for students (infographics, lessons, cheat-sheets, mock api's, etc). | PHP, Markdown, SlimPHP, SQLite, MySQL, Static Files, REST |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjU5MDIzNiwyMDkwOTQ3NzM5LC04OD
-QzMDc4NywtMjA3OTg5ODE0MSw5MjQwNDQ2OSwtMTgwMDU4Njk0
-MCwtMTM2NDExNDY3MSwxNTE0MTI0NTEwLDE1NTc0NTY3NzEsMT
-g2ODE1MzU4MCwxNjc2ODQyNTk4LDEyNzM3NDI2OTAsLTE3ODAz
-Mzg1NDgsLTE5ODc5NDU4MzAsLTEzOTMzNDI2MjUsLTEzMTE4Nz
-gwMzcsNTA2NDIxODU3LC0xMDkyMjkwNDY4LDIwMTQ1MjY1MDks
-MTUwMTcyNzAwN119
+eyJoaXN0b3J5IjpbLTIxMjIwODE2MjcsMjA5MDk0NzczOSwtOD
+g0MzA3ODcsLTIwNzk4OTgxNDEsOTI0MDQ0NjksLTE4MDA1ODY5
+NDAsLTEzNjQxMTQ2NzEsMTUxNDEyNDUxMCwxNTU3NDU2NzcxLD
+E4NjgxNTM1ODAsMTY3Njg0MjU5OCwxMjczNzQyNjkwLC0xNzgw
+MzM4NTQ4LC0xOTg3OTQ1ODMwLC0xMzkzMzQyNjI1LC0xMzExOD
+c4MDM3LDUwNjQyMTg1NywtMTA5MjI5MDQ2OCwyMDE0NTI2NTA5
+LDE1MDE3MjcwMDddfQ==
 -->
