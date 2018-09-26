@@ -18,26 +18,27 @@ Great! You can contribute to BreatheCode in four different ways:
 - **BreatheCode Inspector**: Report issues you find on the application or any improvements you would like. Here is how to report a bug or request a new feature on any of **BreatheCode projects**.
 - **BreatheCode Fixer**: There are a lot of issues revolving around our libraries, it is really hard fix them all and more keep showing up :disappointed_relieved: Here is a small guide on how to help us solve bugs!
 
-This repository intends to describe how the entire BreatheCode repositories are distributed and you can contribute to them.
-
-1. Tools:
+## Our current projects
+Like I said above, BreatheCode is divided in 4 types of projects:
+### 1. Tools
+Tools are stuff that we build to use during coding, basically 
   - [C9 Plugin](https://github.com/breatheco-de/c9-plugin): Enhance c9 with automatic BreatheCode integrations.
   - [BreatheCode CLI](https://github.com/breatheco-de/breathecode-cli): A small CLI to connect to BreatheCode thru the command line.
-2. Libraries: Very focused libraries to resolve recurring issues during developments.
+3. Libraries: Very focused libraries to resolve recurring issues during developments.
   - [React Session](https://github.com/breatheco-de/react-session): Allows persistent sessions in react, compatible with react router.
   - [React Notifier](https://github.com/breatheco-de/react-notifier): Notification library for React Applications.
   - [React Flux Dash](https://github.com/4GeeksAcademy/react-flux-dash): Flux implementation for React.js
-3. Web Applications:
+4. Web Applications:
   - [Student Web Client](https://github.com/breatheco-de/desktop-client):
   - [Teacher Web Client](https://github.com/breatheco-de/teacher-client):
   - [Admin Web Client](https://github.com/breatheco-de/admin-client):
-4. API:
+5. API:
   - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
   - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheach-sheets, mock api's, etc).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUwMzUyMzEsMTg2ODE1MzU4MCwxNj
-c2ODQyNTk4LDEyNzM3NDI2OTAsLTE3ODAzMzg1NDgsLTE5ODc5
-NDU4MzAsLTEzOTMzNDI2MjUsLTEzMTE4NzgwMzcsNTA2NDIxOD
-U3LC0xMDkyMjkwNDY4LDIwMTQ1MjY1MDksMTUwMTcyNzAwNywx
-OTc1MDI1NzM1XX0=
+eyJoaXN0b3J5IjpbMTU1NzQ1Njc3MSwxODY4MTUzNTgwLDE2Nz
+Y4NDI1OTgsMTI3Mzc0MjY5MCwtMTc4MDMzODU0OCwtMTk4Nzk0
+NTgzMCwtMTM5MzM0MjYyNSwtMTMxMTg3ODAzNyw1MDY0MjE4NT
+csLTEwOTIyOTA0NjgsMjAxNDUyNjUwOSwxNTAxNzI3MDA3LDE5
+NzUwMjU3MzVdfQ==
 -->
