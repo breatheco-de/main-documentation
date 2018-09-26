@@ -4,11 +4,12 @@ Hello, my name is :blush: [Alejandro Sanchez](https://alesanchezr.com) I'm the f
 
 > BreatheCode's mission is to **accelerate the way junior developers learn and evolve** using technology.
 
-### Right now, the project is divided in three main products:
+### BreatheCode's code is divided in 4 main verticals:
 - **Tools**: Stuff you can download and use to learn how to build software faster.
 - **Libraries**: Some libraries targeted to fix recurrent coding challenges like: Session Management, Notifications, etc.
 - **Apps**: We build software for teaching purposes only.
 - **APIs**: Assets for teachers.
+If you wa
 
 ## How to contribute
 You can contribute to BreatheCode in two different ways:
@@ -34,9 +35,9 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
   - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheach-sheets, mock api's, etc).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODE1MzU4MCwxNjc2ODQyNTk4LDEyNz
-M3NDI2OTAsLTE3ODAzMzg1NDgsLTE5ODc5NDU4MzAsLTEzOTMz
-NDI2MjUsLTEzMTE4NzgwMzcsNTA2NDIxODU3LC0xMDkyMjkwND
-Y4LDIwMTQ1MjY1MDksMTUwMTcyNzAwNywxOTc1MDI1NzM1XX0=
-
+eyJoaXN0b3J5IjpbNzAyNDMxMzQ0LDE4NjgxNTM1ODAsMTY3Nj
+g0MjU5OCwxMjczNzQyNjkwLC0xNzgwMzM4NTQ4LC0xOTg3OTQ1
+ODMwLC0xMzkzMzQyNjI1LC0xMzExODc4MDM3LDUwNjQyMTg1Ny
+wtMTA5MjI5MDQ2OCwyMDE0NTI2NTA5LDE1MDE3MjcwMDcsMTk3
+NTAyNTczNV19
 -->
