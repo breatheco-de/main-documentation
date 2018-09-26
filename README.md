@@ -31,8 +31,9 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
   - [React Session](https://github.com/breatheco-de/react-session): Allows persistent sessions in react, compatible with react router.
   - [React Notifier](https://github.com/breatheco-de/react-notifier): Notification library for React Applications.
   - [React Flux Dash](https://github.com/4GeeksAcademy/react-flux-dash): Flux implementation for React.js
+
 4. Web Applications:
-At some point we needed to create 
+ 
   - [CMS](https://github.com/breatheco-de/desktop-client):
   - [Student Web Client](https://github.com/breatheco-de/desktop-client):
   - [Teacher Web Client](https://github.com/breatheco-de/teacher-client):
@@ -41,9 +42,9 @@ At some point we needed to create
   - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
   - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheach-sheets, mock api's, etc).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDEyNDUxMCwxNTU3NDU2NzcxLDE4Nj
-gxNTM1ODAsMTY3Njg0MjU5OCwxMjczNzQyNjkwLC0xNzgwMzM4
-NTQ4LC0xOTg3OTQ1ODMwLC0xMzkzMzQyNjI1LC0xMzExODc4MD
-M3LDUwNjQyMTg1NywtMTA5MjI5MDQ2OCwyMDE0NTI2NTA5LDE1
-MDE3MjcwMDcsMTk3NTAyNTczNV19
+eyJoaXN0b3J5IjpbLTEzNjQxMTQ2NzEsMTUxNDEyNDUxMCwxNT
+U3NDU2NzcxLDE4NjgxNTM1ODAsMTY3Njg0MjU5OCwxMjczNzQy
+NjkwLC0xNzgwMzM4NTQ4LC0xOTg3OTQ1ODMwLC0xMzkzMzQyNj
+I1LC0xMzExODc4MDM3LDUwNjQyMTg1NywtMTA5MjI5MDQ2OCwy
+MDE0NTI2NTA5LDE1MDE3MjcwMDcsMTk3NTAyNTczNV19
 -->
