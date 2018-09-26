@@ -9,14 +9,14 @@ Hello, my name is :blush: [Alejandro Sanchez](https://alesanchezr.com) I'm the f
 - **Libraries**: Some libraries targeted to fix recurrent coding challenges like: Session Management, Notifications, etc.
 - **Apps**: We build software for teaching purposes only.
 - **APIs**: Assets for teachers.
-If you want to learn more about our current projects and developments look here.
+If you want to learn more about our current projects and developments look at the end of the document.
 
-## How to contribute
-You can contribute to BreatheCode in two different ways:
+## Are you here to contribute?
+Great! You can contribute to BreatheCode in four different ways:
 - **BreatheCode Coder**: Join the development of any particular project, the majority of our repositories are being actively maintain and with new versions on the pipeline. Read this [if you want to become a **BreatheCode Coder**](#).
 - **BreatheCode Writer**: Help us explain everything to the community: What projects are available? how do they work? how to use them? Here is a more detailed guide you should read if you want to [become a **BreatheCode Writer**](#).
-- **Report bugs or feature requests**: Report issues you find on the application or any improvements you would like. Here is how to report a bug or request a new feature on any of **BreatheCode projects**.
-- **Debugging**: There are a lot of issues revolving around our libraries, it is really hard fix them all and more keep showing up :disappointed_relieved: Here is a small guide on how to help us solve bugs!
+- **BreatheCode Inspector**: Report issues you find on the application or any improvements you would like. Here is how to report a bug or request a new feature on any of **BreatheCode projects**.
+- **BreatheCode Fixer**: There are a lot of issues revolving around our libraries, it is really hard fix them all and more keep showing up :disappointed_relieved: Here is a small guide on how to help us solve bugs!
 
 This repository intends to describe how the entire BreatheCode repositories are distributed and you can contribute to them.
 
@@ -35,7 +35,7 @@ This repository intends to describe how the entire BreatheCode repositories are 
   - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
   - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheach-sheets, mock api's, etc).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY0MDI1MDAsMTg2ODE1MzU4MCwxNj
+eyJoaXN0b3J5IjpbLTExNzUwMzUyMzEsMTg2ODE1MzU4MCwxNj
 c2ODQyNTk4LDEyNzM3NDI2OTAsLTE3ODAzMzg1NDgsLTE5ODc5
 NDU4MzAsLTEzOTMzNDI2MjUsLTEzMTE4NzgwMzcsNTA2NDIxOD
 U3LC0xMDkyMjkwNDY4LDIwMTQ1MjY1MDksMTUwMTcyNzAwNywx
