@@ -34,7 +34,8 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
 
 4. Web Applications:
 | Project 		| Description | Technologies |
-| ---------- 	|-------------- |--------- 			|
+| ---------- 	| -------------- | ---------------- |
+| Project 		| Description | Technologies |
 | [CMS](https://github.com/breatheco-de/desktop-client) | This is were most of the community content is being published: Lessons, Error Explanations and "How to's". | Gatsby.js, CSS, React.js, Markdown, GIT |
 
   - [Student Web Client](https://github.com/breatheco-de/desktop-client): BreatheCode's main website for displaying the courses.
@@ -50,10 +51,10 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
  :blue_book: Technologies: PHP, SlimPHP, EloquentORM, MySQL, SQLite, JSON, Static Files, REST.
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTI5Mjg4MSwtMTgwMDU4Njk0MCwtMT
-M2NDExNDY3MSwxNTE0MTI0NTEwLDE1NTc0NTY3NzEsMTg2ODE1
-MzU4MCwxNjc2ODQyNTk4LDEyNzM3NDI2OTAsLTE3ODAzMzg1ND
-gsLTE5ODc5NDU4MzAsLTEzOTMzNDI2MjUsLTEzMTE4NzgwMzcs
-NTA2NDIxODU3LC0xMDkyMjkwNDY4LDIwMTQ1MjY1MDksMTUwMT
-cyNzAwNywxOTc1MDI1NzM1XX0=
+eyJoaXN0b3J5IjpbMTczMzIzOTg1LC0xODAwNTg2OTQwLC0xMz
+Y0MTE0NjcxLDE1MTQxMjQ1MTAsMTU1NzQ1Njc3MSwxODY4MTUz
+NTgwLDE2NzY4NDI1OTgsMTI3Mzc0MjY5MCwtMTc4MDMzODU0OC
+wtMTk4Nzk0NTgzMCwtMTM5MzM0MjYyNSwtMTMxMTg3ODAzNyw1
+MDY0MjE4NTcsLTEwOTIyOTA0NjgsMjAxNDUyNjUwOSwxNTAxNz
+I3MDA3LDE5NzUwMjU3MzVdfQ==
 -->
