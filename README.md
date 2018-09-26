@@ -9,7 +9,8 @@ Hello, my name is :blush: [Alejandro Sanchez](https://alesanchezr.com) I'm the f
 - **Libraries**: Some libraries targeted to fix recurrent coding challenges like: Session Management, Notifications, etc.
 - **Apps**: We build software for teaching purposes only.
 - **APIs**: Assets for teachers.
-> Thanks to the breathecode-cli we where able to include a set of [recommended boilerplates](https://github.com/breatheco-de/breathecode-cli/blob/master/boilerplates.json) to bootstrap projects in different technologies.
+> Thanks to the [breathecode-cli](https://github.com/breatheco-de/breathecode-cli) we where able to include a set of [recommended boilerplates](https://github.com/breatheco-de/breathecode-cli/blob/master/boilerplates.json) to bootstrap projects in different technologies.
+
 If you want to learn more about our current projects and developments look at the end of the document.
 
 ## Are you here to contribute?
@@ -56,7 +57,7 @@ Very focused libraries to resolve recurring issues during developments.
 | [Platform API](https://api.breatheco.de) | The API for the LMS, it manages students, courses, etc. | EloquentORM, PHP, SlimPHP, MySQL, JSON, REST |
 | [Assets API](https://assets.breatheco.de) | Amazing resources for students (infographics, lessons, cheat-sheets, mock api's, etc). | PHP, Markdown, SlimPHP, SQLite, MySQL, Static Files, REST |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODM5MzEzOCwyMDkwOTQ3NzM5LC04OD
+eyJoaXN0b3J5IjpbLTY3NjU5MDIzNiwyMDkwOTQ3NzM5LC04OD
 QzMDc4NywtMjA3OTg5ODE0MSw5MjQwNDQ2OSwtMTgwMDU4Njk0
 MCwtMTM2NDExNDY3MSwxNTE0MTI0NTEwLDE1NTc0NTY3NzEsMT
 g2ODE1MzU4MCwxNjc2ODQyNTk4LDEyNzM3NDI2OTAsLTE3ODAz
