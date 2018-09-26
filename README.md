@@ -24,8 +24,7 @@ Like I said above, BreatheCode is divided in 4 types of projects:
 In real life you use a lot of tools to code, like: Git, NPM, etc. We have proposed 2 additional tools for junior developers:
  | Project 		| Description | Technologies |
  | [C9 Plugin](https://github.com/breatheco-de/c9-plugin) | Cloud 9 is a great IDE for junior developers because it allow you to work with very few configurations no an isolated machine. We have created a plugin to enhance the Cloud 9 coding IDE and integrated with all the other BreatheCode projects. | Node.js, Bash, JSON |
-  
-| [BreatheCode CLI](https://github.com/breatheco-de/breathecode-cli) | Command Line interface to connect with lots of useful stuff like access to boilerplates, exercises, builders, etc. | Node.js Bash, JSON
+| [BreatheCode CLI](https://github.com/breatheco-de/breathecode-cli) | Command Line interface to connect with lots of useful stuff like access to boilerplates, exercises, builders, etc. | Node.js Bash, JSON |
 
 3. Libraries: Very focused libraries to resolve recurring issues during developments.
   - [React Session](https://github.com/breatheco-de/react-session): Allows persistent sessions in react, compatible with react router.
@@ -47,11 +46,11 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
 | [Platform API](https://api.breatheco.de) | The API for the LMS, it manages students, courses, etc. | EloquentORM, PHP, SlimPHP, MySQL, JSON, REST |
 | [Assets API](https://assets.breatheco.de) | Amazing resources for students (infographics, lessons, cheat-sheets, mock api's, etc). | PHP, Markdown, SlimPHP, SQLite, MySQL, Static Files, REST |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDkzNTM0LC04ODQzMDc4NywtMjA3OT
-g5ODE0MSw5MjQwNDQ2OSwtMTgwMDU4Njk0MCwtMTM2NDExNDY3
-MSwxNTE0MTI0NTEwLDE1NTc0NTY3NzEsMTg2ODE1MzU4MCwxNj
-c2ODQyNTk4LDEyNzM3NDI2OTAsLTE3ODAzMzg1NDgsLTE5ODc5
-NDU4MzAsLTEzOTMzNDI2MjUsLTEzMTE4NzgwMzcsNTA2NDIxOD
-U3LC0xMDkyMjkwNDY4LDIwMTQ1MjY1MDksMTUwMTcyNzAwNywx
-OTc1MDI1NzM1XX0=
+eyJoaXN0b3J5IjpbLTczOTMzNTg1MiwtODg0MzA3ODcsLTIwNz
+k4OTgxNDEsOTI0MDQ0NjksLTE4MDA1ODY5NDAsLTEzNjQxMTQ2
+NzEsMTUxNDEyNDUxMCwxNTU3NDU2NzcxLDE4NjgxNTM1ODAsMT
+Y3Njg0MjU5OCwxMjczNzQyNjkwLC0xNzgwMzM4NTQ4LC0xOTg3
+OTQ1ODMwLC0xMzkzMzQyNjI1LC0xMzExODc4MDM3LDUwNjQyMT
+g1NywtMTA5MjI5MDQ2OCwyMDE0NTI2NTA5LDE1MDE3MjcwMDcs
+MTk3NTAyNTczNV19
 -->
