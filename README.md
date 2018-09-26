@@ -32,7 +32,7 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
   - [React Notifier](https://github.com/breatheco-de/react-notifier): Notification library for React Applications.
   - [React Flux Dash](https://github.com/4GeeksAcademy/react-flux-dash): Flux implementation for React.js
 
-4. Web Applications:
+## 4. Web Applications:
 
 | Project 		| Description | Technologies |
 | ---------- 	| -------------- | ---------------- |
@@ -51,11 +51,11 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
  :blue_book: Technologies: PHP, SlimPHP, EloquentORM, MySQL, SQLite, JSON, Static Files, REST.
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzMTk1NDYwLC0yMDc5ODk4MTQxLDkyND
-A0NDY5LC0xODAwNTg2OTQwLC0xMzY0MTE0NjcxLDE1MTQxMjQ1
-MTAsMTU1NzQ1Njc3MSwxODY4MTUzNTgwLDE2NzY4NDI1OTgsMT
-I3Mzc0MjY5MCwtMTc4MDMzODU0OCwtMTk4Nzk0NTgzMCwtMTM5
-MzM0MjYyNSwtMTMxMTg3ODAzNyw1MDY0MjE4NTcsLTEwOTIyOT
-A0NjgsMjAxNDUyNjUwOSwxNTAxNzI3MDA3LDE5NzUwMjU3MzVd
-fQ==
+eyJoaXN0b3J5IjpbLTk2ODEzNjE5OCwtMjA3OTg5ODE0MSw5Mj
+QwNDQ2OSwtMTgwMDU4Njk0MCwtMTM2NDExNDY3MSwxNTE0MTI0
+NTEwLDE1NTc0NTY3NzEsMTg2ODE1MzU4MCwxNjc2ODQyNTk4LD
+EyNzM3NDI2OTAsLTE3ODAzMzg1NDgsLTE5ODc5NDU4MzAsLTEz
+OTMzNDI2MjUsLTEzMTE4NzgwMzcsNTA2NDIxODU3LC0xMDkyMj
+kwNDY4LDIwMTQ1MjY1MDksMTUwMTcyNzAwNywxOTc1MDI1NzM1
+XX0=
 -->
