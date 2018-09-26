@@ -39,7 +39,7 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
   - [Teacher Web Client](https://github.com/breatheco-de/teacher-client): Teachers are able to manage the pace of their cohorts, review students deliverables, etc.
   - [Admin Web Client](https://github.com/breatheco-de/admin-client): Manage BreathCode students, teachers, etc.
  ```txt
- :blue_book: Technologies: Gatsby.js, React.js
+ :blue_book: Technologies: Gatsby.js, React.js, FLUX, Fetch, CSS, SASS and HTML.
  ```
 6. API's:
   - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
@@ -48,7 +48,7 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
  :blue_book: Technologies: PHP, SlimPHP, EloquentORM, MySQL, SQLite, JSON, Static Files, REST.
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjU1NTk1NSwtMTgwMDU4Njk0MCwtMT
+eyJoaXN0b3J5IjpbLTIxOTc0Mzg4NywtMTgwMDU4Njk0MCwtMT
 M2NDExNDY3MSwxNTE0MTI0NTEwLDE1NTc0NTY3NzEsMTg2ODE1
 MzU4MCwxNjc2ODQyNTk4LDEyNzM3NDI2OTAsLTE3ODAzMzg1ND
 gsLTE5ODc5NDU4MzAsLTEzOTMzNDI2MjUsLTEzMTE4NzgwMzcs
