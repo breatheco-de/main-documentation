@@ -25,20 +25,23 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
  
   - [C9 Plugin](https://github.com/breatheco-de/c9-plugin): Cloud 9 is a great IDE for junior developers because it allow you to work with very few configurations no an isolated machine. We have created a plugin to enhance the Cloud 9 coding IDE and integrated with all the other BreatheCode projects.
   
-  - [BreatheCode CLI](https://github.com/breatheco-de/breathecode-cli): A  CLI to connect to BreatheCode thru the command line.
+  - [BreatheCode CLI](https://github.com/breatheco-de/breathecode-cli): Command Line interface to connect with lots of useful stuff like access to boilerplates, exercises, builders, etc.
+
 3. Libraries: Very focused libraries to resolve recurring issues during developments.
   - [React Session](https://github.com/breatheco-de/react-session): Allows persistent sessions in react, compatible with react router.
   - [React Notifier](https://github.com/breatheco-de/react-notifier): Notification library for React Applications.
   - [React Flux Dash](https://github.com/4GeeksAcademy/react-flux-dash): Flux implementation for React.js
 4. Web Applications:
+BreatheCode also has a 
+  - [CMS](https://github.com/breatheco-de/desktop-client):
   - [Student Web Client](https://github.com/breatheco-de/desktop-client):
   - [Teacher Web Client](https://github.com/breatheco-de/teacher-client):
   - [Admin Web Client](https://github.com/breatheco-de/admin-client):
-5. API:
+6. API:
   - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
   - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheach-sheets, mock api's, etc).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjAyNDUzOCwxNTU3NDU2NzcxLDE4Nj
+eyJoaXN0b3J5IjpbMTU2NDE4OTE3MSwxNTU3NDU2NzcxLDE4Nj
 gxNTM1ODAsMTY3Njg0MjU5OCwxMjczNzQyNjkwLC0xNzgwMzM4
 NTQ4LC0xOTg3OTQ1ODMwLC0xMzkzMzQyNjI1LC0xMzExODc4MD
 M3LDUwNjQyMTg1NywtMTA5MjI5MDQ2OCwyMDE0NTI2NTA5LDE1
