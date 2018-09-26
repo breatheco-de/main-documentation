@@ -37,8 +37,8 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
 | Project 		| Description | Technologies |
 | ---------- 	| -------------- | ---------------- |
 | [CMS](https://github.com/breatheco-de/desktop-client) | This is were most of the community content is being published: Lessons, Error Explanations and "How to's". | Gatsby.js, CSS, React.js, Markdown, GIT |
-| [Student Web Client](https://github.com/breatheco-de/desktop-client) | BreatheCode's main website for displaying the courses. | React.js, Fetch |
-| [Teacher Web Client](https://github.com/breatheco-de/teacher-client) | Teachers are able to manage the pace of their cohorts, review students deliverables, etc. |  |
+| [Student Web Client](https://github.com/breatheco-de/desktop-client) | BreatheCode's main website for displaying the courses. | React.js, CSS, Sass, HTML |
+| [Teacher Web Client](https://github.com/breatheco-de/teacher-client) | Teachers are able to manage the pace of their cohorts, review students deliverables, etc. | React.js, CSS, Sass, HTML |
   - [Admin Web Client](https://github.com/breatheco-de/admin-client): Manage BreathCode students, teachers, etc.
 
 |  :blue_book: Technologies: Gatsby.js, React.js, FLUX, Fetch, CSS, SASS and HTML. |
@@ -50,7 +50,7 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
  :blue_book: Technologies: PHP, SlimPHP, EloquentORM, MySQL, SQLite, JSON, Static Files, REST.
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjUzMTYyMSwtMjA3OTg5ODE0MSw5Mj
+eyJoaXN0b3J5IjpbMjA4MzU0MzYzMywtMjA3OTg5ODE0MSw5Mj
 QwNDQ2OSwtMTgwMDU4Njk0MCwtMTM2NDExNDY3MSwxNTE0MTI0
 NTEwLDE1NTc0NTY3NzEsMTg2ODE1MzU4MCwxNjc2ODQyNTk4LD
 EyNzM3NDI2OTAsLTE3ODAzMzg1NDgsLTE5ODc5NDU4MzAsLTEz
