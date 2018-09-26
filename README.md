@@ -35,17 +35,17 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
 4. Web Applications:
  
   - [CMS](https://github.com/breatheco-de/desktop-client): This is were most of the community content is being published: Lessons, Error Explanations and "How to's".
-  - [Student Web Client](https://github.com/breatheco-de/desktop-client): BreatheCode's main web
-  - [Teacher Web Client](https://github.com/breatheco-de/teacher-client):
-  - [Admin Web Client](https://github.com/breatheco-de/admin-client):
+  - [Student Web Client](https://github.com/breatheco-de/desktop-client): BreatheCode's main website for displaying the courses.
+  - [Teacher Web Client](https://github.com/breatheco-de/teacher-client): Teachers are able to manage the pace of their cohorts, review students deliverables, etc.
+  - [Admin Web Client](https://github.com/breatheco-de/admin-client): Manage breathcode students, teachers, 
 6. API:
   - [Platform API](https://api.breatheco.de): The API for the LMS, it manages students, courses, etc.
   - [Assets API](https://assets.breatheco.de): Amazing resources for students (infographics, lessons, cheach-sheets, mock api's, etc).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA1ODY5NDAsLTEzNjQxMTQ2NzEsMT
-UxNDEyNDUxMCwxNTU3NDU2NzcxLDE4NjgxNTM1ODAsMTY3Njg0
-MjU5OCwxMjczNzQyNjkwLC0xNzgwMzM4NTQ4LC0xOTg3OTQ1OD
-MwLC0xMzkzMzQyNjI1LC0xMzExODc4MDM3LDUwNjQyMTg1Nywt
-MTA5MjI5MDQ2OCwyMDE0NTI2NTA5LDE1MDE3MjcwMDcsMTk3NT
-AyNTczNV19
+eyJoaXN0b3J5IjpbMTQ1MDA0NzQ2LC0xODAwNTg2OTQwLC0xMz
+Y0MTE0NjcxLDE1MTQxMjQ1MTAsMTU1NzQ1Njc3MSwxODY4MTUz
+NTgwLDE2NzY4NDI1OTgsMTI3Mzc0MjY5MCwtMTc4MDMzODU0OC
+wtMTk4Nzk0NTgzMCwtMTM5MzM0MjYyNSwtMTMxMTg3ODAzNyw1
+MDY0MjE4NTcsLTEwOTIyOTA0NjgsMjAxNDUyNjUwOSwxNTAxNz
+I3MDA3LDE5NzUwMjU3MzVdfQ==
 -->
