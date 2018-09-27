@@ -5,7 +5,7 @@ Hello, my name is :blush: [Alejandro Sanchez](https://alesanchezr.com) I'm the f
 
 > BreatheCode's mission is to **accelerate the way junior developers learn and evolve** using technology.
 
-### BreatheCode's code is divided in 5 main verticals:
+### BreatheCode's code is divided in 4 main verticals:
 - **Tools**: Stuff you can download and use to learn how to build software faster.
 - **Libraries**: Some libraries targeted to fix recurrent coding challenges like: Session Management, Notifications, etc.
 - **Apps**: We build software for teaching purposes only.
