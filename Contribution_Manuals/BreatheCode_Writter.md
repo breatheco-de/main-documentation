@@ -11,14 +11,14 @@ Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode p
 
 1. Sing the **Contributor License Agreement** [~~HERE HOW~~](https://github.com/cla-assistant/cla-assistant).
 2. Use our [BreatheCode contributor template].
-3. Make sure you have a [GitHub account](https://github.com/signup/free) and you have succesfully fullfill your profile.
+3. Make sure you have a [GitHub account](https://github.com/signup/free) and you have successfully fulfilled your profile.
 4. On BreatheCode main repository, navigate to the repository where you want to make your contribution.
-	> Before subbiting your contribution take into consideration our [BreatheCode Writer Documentation Styleguide](###breathecode-writter-documentation-styleguide).
+	> Before submitting your contribution take into consideration our [BreatheCode Writer Documentation Styleguide](###breathecode-writter-documentation-styleguide).
 5. If your current branch is `master`, you should change it and choose `docs`. The only way to accept a change is by using the `docs` branch.
     > - GitHub suggestion: If you don't have write access to the repository where you'd like to create a pull request, you must create a fork, or copy, of the repository first. For more information, see "[Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork)" and "[About forks](https://help.github.com/articles/about-forks)."
 	  >  If your contribution is larger than a couple of lines you should create a pull request from a fork.
- 6. Submitte your contribution.
- 8. After a revision, you sould expect a response about your contribution within a week.
+ 6. Submit your contribution.
+ 8. After a revision, you should expect a response about your contribution within a week.
 
 ### BreatheCode Writer Documentation Styleguide
 
