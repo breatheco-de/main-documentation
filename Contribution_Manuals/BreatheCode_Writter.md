@@ -1,6 +1,6 @@
 # Contributing as a BreatheCode Writter
 
-Hi! :smile: Thanks for helpping us to conceptualize and explain all BreatheCode projects to the community. Keep in mind that this are not  rules but a guide for you through submitting any suggestion and make sure the community understand your suggestion and find related suggestions.
+Hi! :smile: Thanks for helpping us to conceptualize and explain all BreatheCode projects to the community. Keep in mind that this are not  rules but a guide for you through submitting any suggestion and make sure the community understand your information and find related suggestions.
 
 ## What kind of suggestions we do expect?
 
