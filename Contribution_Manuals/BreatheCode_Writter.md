@@ -4,6 +4,7 @@ Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode p
 
 ## What kind of suggestions we do expect?
 
+- Creating new documentation.
 - Updating documentation.
 - Enhancing documentation.
 
