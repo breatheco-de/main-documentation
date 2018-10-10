@@ -5,8 +5,8 @@ Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode p
 ## What kind of contributions do we expect as a BreatheCode Writer?
 
 - **Creating new documentation** as projects descriptions, wikis, README files, technical documentation, or release notes to describe  changes.
-- **Updating documentation**: submit a whole update document (to change it, and then resubmit the whole document), or make partial updates (to relink, add further and latest information to previous documentation).
-- **Enhancing documentation** documenting a change to an existing file/contribution: making syntax, grammar or punctuation corrections; adding images, charts, tables.
+- **Updating documentation**: submit a whole update document (to change it, and then resubmit the whole document), or make partial updates (to relink, add further and latest information to previous documentation) by fixing broken links and spelling/grammatical errors and documenting a change to an existing file/contribution.
+- **Enhancing documentation**: Put yourself in the readers' place. Contribute to create a more easy-reading document. Ideally, readers should be able to grasp the overall structure and quickly find what they want. Think of graphic design as a delivery system for ideas (add images, charts, tables... where it is precise).
 
 ### Before Submitting A Contribution
 
@@ -21,8 +21,8 @@ Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode p
 
 - **Use [Markdown](https://www.markdownguide.org/)** for creating a clean and organized document. Also, you can check out how [writing on GitHub](https://help.github.com/categories/writing-on-github/). It is sometimes best to practice building a markdown file in an offline program before submitting your contribution.
 -   **Use a clear and descriptive title**  in order to identify your contribution/issue.
--   **Provide full and clear descriptions**  add as much as many details you need, please use a logical order.
+-   **Provide full and clear descriptions**, beware of ambiguities, be concrete, use word-pictures, avoid abstract words. Use active instead of passive words, and please use a logical order.
 -   **Include a section for credits** (if apply) in order to highlight and link to the authors of the information it will contain.
 -   **Provide specific examples** to demonstrate the steps by using specifics descriptions, you can also include images, .gif screen files, etc.
-NOTES:
+**NOTES**:
 If a change addresses an issue, include a line of the form: `Fixes #<issue number>`.
