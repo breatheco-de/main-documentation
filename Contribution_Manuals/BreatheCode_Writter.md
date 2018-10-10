@@ -1,7 +1,7 @@
 
 # Contributing as a BreatheCode Writer
 
-Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode projects to the community. If you feel that there is a gap in our documentation, you can participate and contribute to improving the project. Keep in mind that what is described is not a compilation of rules but a guide for submitting any suggestion and make sure the community understand your information and find related issues/ideas. Remember, even if you’re not the developer type, contributing to the documentation is still of enormous value.
+Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode projects to the community. If you feel that there is a gap in our documentation, you can participate and contribute to improving the project. Keep in mind that it is not a compilation of rules but a guide for submitting any suggestion and make sure the community understand your information and find related issues/ideas. Remember, even if you’re not the developer type, contributing to the documentation is still of enormous value.
 
 ## What kind of contributions do we expect as a BreatheCode Writer?
 
@@ -22,8 +22,13 @@ Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode p
 
 - **Use [Markdown](https://www.markdownguide.org/)** for creating a clean and organized document. Also, you can check out how [writing on GitHub](https://help.github.com/categories/writing-on-github/). It is sometimes best to practice building a markdown file in an offline program before submitting your contribution.
 -   **Use a clear and descriptive title**  to  identify your contribution/issue.
--   **Provide full and clear descriptions**, beware of ambiguities, be concrete, use word-pictures, avoid abstract words. Use active instead of passive words, and please use logical order (general to especifics).
+-   **Provide full and clear descriptions**:
+	- Communicate in specifics and concrete terms, rather than generalities and abstractions. 
+	- Beware of ambiguities.
+	- Be concrete, use word-pictures, avoid abstract words. 
+	- Use active instead of passive words.
+	- Use logical order (general to especific).
 -   **Include a section for credits** (if it applies) to highlight and link to the authors of the information it will contain.
--   **Provide specific examples** to demonstrate the steps by using specifics descriptions, you can also include images, .gif screen files, etc.
+-   **Enhance the content** Include images, .gif screen files, etc.
 **NOTES**:
 If a change addresses an issue, include a line of the form: `Fixes #<issue number>`.
