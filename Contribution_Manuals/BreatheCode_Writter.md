@@ -1,29 +1,28 @@
 # Contributing as a BreatheCode Writer
 
-Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode projects to the community. Keep in mind that this are not  rules but a guide for you through submitting any suggestion and make sure the community understand your information and find related suggestions.
+Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode projects to the community. If you feel that there is a gap in our documentation, you can participate and contribute to improve the project. Keep in mind that what is describe is not a compilation of rules but a guide for submitting any suggestion and make sure the community understand your information and find related issues/suggestions. Remember, even if you’re not the developer type, contributing to the documentation is still of huge value.
 
-## What kind of suggestions we do expect?
+## What kind of contributions do we expect as a BreatheCode Writer?
 
-- Creating new documentation.
-- Updating documentation.
-- Enhancing documentation.
+- **Creating new documentation** as projects descriptions, wikis, README files, technical documentation, or release notes to describe  changes.
+- **Updating documentation**: submit a whole update document (to change it, and then resubmit the whole document), or make partial updates (to relink, add further and latest information to previous documentation).
+- **Enhancing documentation** documenting a change to an existing file/contribution: making syntax, grammar or punctuation corrections; adding images, charts, tables.
 
 ### Before Submitting A Contribution
 
-1. Sing the **Contributor License Agreement** [~~HERE HOW~~](https://github.com/cla-assistant/cla-assistant).
-2. Use our [BreatheCode contributor template].
-3. Make sure you have a [GitHub account](https://github.com/signup/free) and you have successfully fulfilled your profile.
-4. On BreatheCode main repository, navigate to the repository where you want to make your contribution.
+1. Make sure you have a [GitHub account](https://github.com/signup/free), and you have successfully fulfilled your profile.
+2. On BreatheCode main repository, navigate to the repository where you want to make your contribution.
 	> Before submitting your contribution take into consideration our [BreatheCode Writer Documentation Styleguide](###breathecode-writter-documentation-styleguide).
-5. If your current branch is `master`, you should change it and choose `docs`. The only way to accept a change is by using the `docs` branch.
-    > - GitHub suggestion: If you don't have write access to the repository where you'd like to create a pull request, you must create a fork, or copy, of the repository first. For more information, see "[Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork)" and "[About forks](https://help.github.com/articles/about-forks)."
-	  >  If your contribution is larger than a couple of lines you should create a pull request from a fork.
- 6. Submit your contribution.
- 8. After a revision, you should expect a response about your contribution within a week.
+3. If your current branch is `master`, you should change it and choose `docs`. The only way to accept a change is by using the `docs` branch.
+4. Submit your contribution with a commit changes comment.
+5. After a revision, you should expect a response about your contribution within a week.
 
 ### BreatheCode Writer Documentation Styleguide
 
-- **Use [Markdown](https://www.markdownguide.org/)** for creating a clean and organized document. Also, you can check out how [writing on GitHub](https://help.github.com/categories/writing-on-github/).
--   **Use a clear and descriptive title**  in order to identify the contribution/issue.
--   **Provide a step-by-step description**  add as much as many details you need, please use a logical order.
+- **Use [Markdown](https://www.markdownguide.org/)** for creating a clean and organized document. Also, you can check out how [writing on GitHub](https://help.github.com/categories/writing-on-github/). It is sometimes best to practice building a markdown file in an offline program before submitting your contribution.
+-   **Use a clear and descriptive title**  in order to identify your contribution/issue.
+-   **Provide full and clear descriptions**  add as much as many details you need, please use a logical order.
+-   **Include a section for credits** (if apply) in order to highlight and link to the authors of the information it will contain.
 -   **Provide specific examples** to demonstrate the steps by using specifics descriptions, you can also include images, .gif screen files, etc.
+NOTES:
+If a change addresses an issue, include a line of the form: `Fixes #<issue number>`.
