@@ -31,4 +31,4 @@ Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode p
 -   **Include a section for credits** (if it applies) to highlight and link to the authors of the information it will contain.
 -   **Enhance the content** Include images, .gif screen files, etc.
 **NOTES**:
-If a change addresses an issue, include a line of the form: `Fixes #<issue number>`.
+If a change addresses an issue, include a line: `Fixes #<issue number>`.
