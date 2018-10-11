@@ -13,7 +13,7 @@ Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode p
 
 1. Make sure you have a [GitHub account](https://github.com/signup/free), and you have successfully fulfilled your profile.
 2. On BreatheCode main repository, navigate to the repository where you want to make your contribution.
-	> Before submitting your contribution take into consideration our [BreatheCode Writer Documentation Styleguide](###breathecode-writter-documentation-styleguide).
+	> Before submitting your contribution take into consideration our [BreatheCode Writer Documentation Styleguide](#breathecode-writter-documentation-styleguide).
 3. If your current branch is `master`, you should change it and choose `docs`. The only way to accept a change is by using the `docs` branch.
 4. Submit your contribution with a commit changes comment.
 5. After a revision, you should expect a response about your contribution within a week.
