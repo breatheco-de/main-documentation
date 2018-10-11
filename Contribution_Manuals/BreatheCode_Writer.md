@@ -7,7 +7,7 @@ Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode p
 
 - **Creating new documentation** as projects descriptions, wikis, README files, technical documentation, or release notes to describe changes.
 - **Updating documentation**: submit a whole update document (to change it, and then resubmit the entire document), or make partial updates (to relink, add further and latest information to previous documentation) by fixing broken links and spelling/grammatical errors and documenting a change to an existing file/contribution.
-- **Enhancing documentation**: Put yourself in the readers' place. Contribute to creating a more easy-reading document. Ideally, readers should be able to grasp the overall structure and quickly find what they want. Think of graphic design as a delivery system for ideas (add images, charts, tables... where it is precise).
+- **Enhancing documentation**: Put yourself in the readers' place. Contribute to creating a more easy-reading document. Ideally, readers should be able to grasp the overall structure and quickly find what they want. Think of graphic design as a delivery system for ideas (add images, charts, tables... where it is precise). [Click here to see what you can enhance.](https://github.com/search?q=is%3Aopen+is%3Aissue+label%3Abc-writer)
 
 ### Before Submitting A Contribution
 
