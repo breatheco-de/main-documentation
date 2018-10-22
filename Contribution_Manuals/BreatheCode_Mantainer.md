@@ -4,6 +4,11 @@
 1. first-timers-only
 2. up-for-grabs
 
+## Documenting issues
+
+Example issue:
+https://github.com/formly-js/angular-formly/issues/410#issuecomment-127227984
+
 ## Badges
 
 | Badge Name  | Image | Description |
