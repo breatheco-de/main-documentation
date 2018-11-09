@@ -21,4 +21,4 @@ Here is the registered attendance to our fundational event:
 2.  
 3.  
 
-To continue learnin more about BreatheCode we encourage you to read our [contribution manual](https://github.com/breatheco-de/main-documentation).
+To learn more about BreatheCode we encourage you to read our [contribution manual](https://github.com/breatheco-de/main-documentation).
