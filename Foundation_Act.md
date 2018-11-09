@@ -4,9 +4,9 @@ This document has as a goal to initiate BreathCode as an open source community, 
 
 > Accelerate the way junior developers learn and evolve using technology.
 
-BreathCode will operate under the [all contributors specification](https://github.com/jfmengels/all-contributors-cli) any one who collaborates with our projects, will be honored as a collaborator in the organization.
+BreathCode will operate under the [all contributors specification](https://github.com/jfmengels/all-contributors-cli) anyone who collaborates with our projects, will be honored as a collaborator in the respective project.
 
-Every person mentioned in this document will be considered co-founders because of their assistance to our foundation event.
+Every person mentioned in this document will be considered co-founders because of their assistance to our foundational event.
 
 You can contribute to BreatheCode by doing any of the following activities.
 
@@ -15,3 +15,4 @@ You can contribute to BreatheCode by doing any of the following activities.
 + Bring sponsors
 + Help us promote (social media, word of mouth or any form of advertising)
 
+To continue learnin more about BreatheCode we encourage you to read our [contribution manual](https://github.com/breatheco-de/main-documentation).
