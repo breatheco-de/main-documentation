@@ -33,14 +33,14 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
  | [C9 Plugin](https://github.com/breatheco-de/c9-plugin) | Cloud 9 is a great IDE for junior developers because it allow you to work with very few configurations no an isolated machine. We have created a plugin to enhance the Cloud 9 coding IDE and integrated with all the other BreatheCode projects. | Node.js, Bash, JSON |
 | [BreatheCode CLI](https://github.com/breatheco-de/breathecode-cli) | Command Line interface to connect with lots of useful stuff like access to boilerplates, exercises, builders, etc. | Node.js Bash, JSON |
 
-### 2. Libraries: 
+### 2. Libraries:
 Very focused libraries to resolve recurring issues during developments.
 
 | Project 		| Description | Technologies |
 | ---------- 	| -------------- | ---------------- |
-[React Session](https://github.com/breatheco-de/react-session) | Allows persistent sessions in react, compatible with react router. | React.js |
+|v[React Session](https://github.com/breatheco-de/react-session) | Allows persistent sessions in react, compatible with react router. | React.js |
 | [React Notifier](https://github.com/breatheco-de/react-notifier) | Notification library for React Applications. | React.js |
-| [React Flux Dash](https://github.com/4GeeksAcademy/react-flux-dash) | Flux implementation for React.js |
+| [React Flux Dash](https://github.com/4GeeksAcademy/react-flux-dash) | Flux implementation for React.js | React.js |
 
 ### 3. Applications:
 

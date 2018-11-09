@@ -1,5 +1,6 @@
 # Become a BreatheCode Coder
 
+Tags: `help wanted`, `good first issue`, `4geeks student`
 
 
 > Written with [StackEdit](https://stackedit.io/).
