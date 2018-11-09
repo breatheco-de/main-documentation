@@ -8,7 +8,7 @@ BreathCode will operate under the [all contributors specification](https://githu
 
 Every person mentioned in this document will be considered co-founders because of their assistance to our foundational event.
 
-You can contribute to BreatheCode by doing any of the following activities.
+You can help organize the BreatheCode community by doing any of the following activities:
 
 + Bring speakers 
 + Bring partnerships 
