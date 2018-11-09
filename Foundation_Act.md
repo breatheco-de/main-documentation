@@ -15,4 +15,10 @@ You can contribute to BreatheCode by doing any of the following activities.
 + Bring sponsors
 + Help us promote (social media, word of mouth or any form of advertising)
 
+Here is the registered attendance to our fundational event:
+
+1.  
+2.  
+3.  
+
 To continue learnin more about BreatheCode we encourage you to read our [contribution manual](https://github.com/breatheco-de/main-documentation).
