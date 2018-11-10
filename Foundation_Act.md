@@ -21,7 +21,7 @@ Here is the registered attendance to our fundational event:
 2.  [Blake Albertson](https://github.com/pandahacker)
 3.  [Irvine Springer] (https://github.com/Smokeychang)
 4.  Frank Izquierdo (https://github.com/kodi24fever)
-5.
+5.  [Nikita Vidal](https://github.com/nikiy30)
 6.
 7. Alejandro Sanchez (https://www.github.com/alesanchezr)
 
