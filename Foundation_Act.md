@@ -17,7 +17,7 @@ You can help organize the BreatheCode community by doing any of the following ac
 
 Here is the registered attendance to our fundational event:
 
-1.  
+1.  Blake Albertson (https://github.com/pandahacker)
 2.  
 3.  
 
