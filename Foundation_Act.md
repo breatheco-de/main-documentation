@@ -17,7 +17,7 @@ You can help organize the BreatheCode community by doing any of the following ac
 
 Here is the registered attendance to our fundational event:
 
-1.  Victor Garcia (https://github.com/vicks1008/)
+1.  [Victor Garcia] (https://github.com/vicks1008/)
 2.  
 3.  
 
