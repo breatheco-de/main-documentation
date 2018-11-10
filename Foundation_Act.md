@@ -21,7 +21,7 @@ Here is the registered attendance to our fundational event:
 2.  
 3.  
 4.
-5.
+5.  Frank Izquierdo (https://github.com/kodi24fever)
 6.
 7. Alejandro Sanchez (https://www.github.com/alesanchezr)
 
