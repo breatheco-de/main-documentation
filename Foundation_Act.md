@@ -20,5 +20,10 @@ Here is the registered attendance to our fundational event:
 1.  
 2.  
 3.[Irvine Springer] (https://github.com/Smokeychang)
+3.  
+4.
+5.
+6.
+7. Alejandro Sanchez (https://www.github.com/alesanchezr)
 
 To learn more about BreatheCode we encourage you to read our [contribution manual](https://github.com/breatheco-de/main-documentation).
