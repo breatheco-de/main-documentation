@@ -20,7 +20,7 @@ Here is the registered attendance to our fundational event:
 
 1.  Victor Garcia (https://github.com/vicks1008/)
 2.  [Blake Albertson](https://github.com/pandahacker)
-3.  
+3.[Irvine Springer] (https://github.com/Smokeychang)
 4.
 5.
 6.
