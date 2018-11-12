@@ -1,8 +1,6 @@
 
 
-## Labels
-1. first-timers-only
-2. up-for-grabs
+## Label: bc-writter
 
 ## Documenting issues
 
