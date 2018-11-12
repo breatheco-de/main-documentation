@@ -17,12 +17,12 @@ You can help organize the BreatheCode community by doing any of the following ac
 
 Here is the registered attendance to our fundational event:
 
-1.  Victor Garcia (https://github.com/vicks1008/)
+1.  [Victor Garcia](https://github.com/vicks1008/)
 2.  [Blake Albertson](https://github.com/pandahacker)
-3.  [Irvine Springer] (https://github.com/Smokeychang)
-4.  Frank Izquierdo (https://github.com/kodi24fever)
+3.  [Irvine Springer](https://github.com/Smokeychang)
+4.  [Frank Izquierdo](https://github.com/kodi24fever)
 5.
 6.
-7. Alejandro Sanchez (https://www.github.com/alesanchezr)
+7. [Alejandro Sanchez](https://www.github.com/alesanchezr)
 
 To learn more about BreatheCode we encourage you to read our [contribution manual](https://github.com/breatheco-de/main-documentation).
