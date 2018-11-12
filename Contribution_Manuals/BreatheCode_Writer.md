@@ -1,3 +1,4 @@
+![BreatheCode Writter](https://img.shields.io/badge/breathecode-bc--writter-blue.svg?longCache=true&style=popout)
 
 # Contributing as a BreatheCode Writer
 
