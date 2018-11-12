@@ -1,4 +1,4 @@
-![BreatheCode Writter](https://img.shields.io/badge/label-bc--writter-blue.svg?longCache=true&style=popout)
+![BreatheCode Writter](https://img.shields.io/badge/label-bc--writter-blue.svg?longCache=true&style=popout&link=https://github.com/search?q=label%3Abc-writter)
 
 # Contributing as a BreatheCode Writer
 
