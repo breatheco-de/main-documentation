@@ -1,6 +1,8 @@
 
 # Contributing as a BreatheCode Writer
 
+Tag: `bc-writter`
+
 Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode projects to the community. If you feel that there is a gap in our documentation, you can participate and contribute to improving the project. Keep in mind that it is not a compilation of rules but a guide for submitting any suggestion and make sure the community understand your information and find related issues/ideas. Remember, even if you’re not the developer type, contributing to the documentation is still of enormous value.
 
 ## What kind of contributions do we expect as a BreatheCode Writer?
@@ -32,3 +34,6 @@ Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode p
 -   **Enhance the content** Include images, .gif screen files, etc.  
 **NOTES**:
 If a change addresses an issue, include a line: `Fixes #<issue number>`.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjg5ODM3MTUyXX0=
+-->
