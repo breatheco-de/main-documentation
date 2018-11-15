@@ -1,4 +1,9 @@
+
 > :warning: This guide is still under development.
+
+[![BreatheCode Writter](https://img.shields.io/badge/label-bc--writter-blue.svg?link=https://github.com/search?q=label%3Abc-writter)](https://google.com)
+
+
 # Contributing as a BreatheCode Writer
 
 Tag: `bc-writter`
