@@ -15,8 +15,8 @@ Initial release v0.1 (alfa)
 	- [ ] Link to the guid on "how to create a pull request"
 	- [ ] Link to a gihub search with the proper tags to identify stuff that needs to get done.
 
-## Updates coming to v2.0
+## Updates coming to v0.2
 - [ ] CLA Agreement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ1MjI3MDZdfQ==
+eyJoaXN0b3J5IjpbNDY5NTY0OTc0LC0yMDM0NTIyNzA2XX0=
 -->
