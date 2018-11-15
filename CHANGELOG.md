@@ -8,12 +8,14 @@ Initial release v0.1 (alfa)
 - [ ] Contribution Template for *BreatheCode Inspector & Debugger*
 - [ ] How to create a pull request.
 - [ ] En la cabecera de cada manual colocar los labels para ese rol.
+- [ ] Merge the bc-debugger manual with the bc-inspector.
 - [ ] Terminal manual de how to start diciendo lo siguiente:
 	- [ ] Explain the tags in a brief way.
-	- [ ] Un link para el gua de "how to create a pull request"
+	- [ ] Link to the guid on "how to create a pull request"
+	- [ ] Link to a gihub search with the proper tags to identify stuff that needs to get done.
 
 ## Updates coming to v2.0
 - [ ] CLA Agreement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTg5NTgwNF19
+eyJoaXN0b3J5IjpbNDY3MTY2MDc5XX0=
 -->
