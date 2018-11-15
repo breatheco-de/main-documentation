@@ -5,6 +5,7 @@ Initial release v0.1 (alfa)
 ## Updates coming to v0.1
 - [ ] Contribution Template for *BreatheCode Writter*
 - [ ] Contribution Template for *BreatheCode Coder*
+- [ ] Contribution Template for *Mantainer*.
 - [ ] Contribution Template for *BreatheCode Inspector & Debugger*
 - [ ] Guide on: How to create a pull request.
 - [ ] At the top of each manual add the [github-shield badge](https://shields.io/#/) for that tag and with the link. E.g: ![BreatheCode Writter](https://img.shields.io/badge/label-bc--writter-blue.svg?link=https://github.com/search?q=label%3Abc-writter)
@@ -17,5 +18,5 @@ Initial release v0.1 (alfa)
 ## Updates coming to v2.0
 - [ ] CLA Agreement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTEyMTc2NV19
+eyJoaXN0b3J5IjpbLTIwMzQ1MjI3MDZdfQ==
 -->
