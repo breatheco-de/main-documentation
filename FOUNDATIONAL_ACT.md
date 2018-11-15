@@ -1,0 +1,32 @@
+# ![BClogo](https://camo.githubusercontent.com/030f4482ea4a558949ef0d088bb42d947214c9fb/68747470733a2f2f6173736574732e62726561746865636f2e64652f617069732f696d672f696d616765732e7068703f626c6f622672616e646f6d266361743d69636f6e26746167733d62726561746865636f64652c3332) < BreathCode/ >  Foundation Act
+
+This document has as a goal to initiate BreathCode as an open source community, BreatheCode's mission is:
+
+> Accelerate the way junior developers learn and evolve using technology.
+
+BreathCode will operate under the [all contributors specification](https://github.com/jfmengels/all-contributors-cli) anyone who collaborates with our projects, will be honored as a collaborator in the respective project.
+
+Every person mentioned in this document will be considered co-founders because of their assistance to our foundational event.
+
+You can help organize the BreatheCode community by doing any of the following activities:
+
++ Bring speakers 
++ Bring partnerships 
++ Bring sponsors
++ Help us promote (social media, word of mouth or any form of advertising)
+
+Here is the registered attendance to our fundational event:
+
+1. [Victor Garcia](https://github.com/vicks1008/)
+2. [Blake Albertson](https://github.com/pandahacker)
+3. [Irvine Springer](https://github.com/Smokeychang)
+4. [Frank Izquierdo](https://github.com/kodi24fever)
+5. [Nikita Vidal](https://github.com/nikiy30)
+6. [Jonathan Ferragut](https://github.com/jferragut)
+7. [Ignacio Cordoba](https://github.com/nachovz)
+8. [Alejandro Sanchez](https://www.github.com/alesanchezr)
+
+To learn more about BreatheCode we encourage you to read our [contribution manual](https://github.com/breatheco-de/main-documentation).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg5MjA5Mzc4XX0=
+-->
