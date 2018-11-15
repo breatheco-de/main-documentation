@@ -8,6 +8,7 @@ The BreatheCode Mantainers are the gas that fuels the entire open source communi
 
 Example issue:
 https://github.com/4GeeksAcademy/react-exercises/issues/6
+https://github.com/4GeeksAcademy/git-interactive-tutorial/issues/1
 
 ## Badges
 
@@ -15,6 +16,6 @@ https://github.com/4GeeksAcademy/react-exercises/issues/6
 | ------      | ----  | ----        |
 | First time only | [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/) | When the project includes first time only issues ready for junior contributors. |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODY4NzYyMywtMTE1NjE0NzA1LDEyMz
-UxNDUyMjZdfQ==
+eyJoaXN0b3J5IjpbMTcwMDIzMTI4LC0xMTU2MTQ3MDUsMTIzNT
+E0NTIyNl19
 -->
