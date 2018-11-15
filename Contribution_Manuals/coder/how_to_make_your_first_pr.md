@@ -1,6 +1,6 @@
 # How to make your first PR (pull-request)
 
-:note: This guide is still under development.
+> :warning: This guide is still under development.
 
 Biblography:
  - http://yourfirstpr.github.io/
@@ -8,5 +8,5 @@ Biblography:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzU3MTE4MjhdfQ==
+eyJoaXN0b3J5IjpbNTUyOTM5MzQ2LC0xMzM1NzExODI4XX0=
 -->
