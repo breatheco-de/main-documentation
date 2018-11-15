@@ -6,19 +6,19 @@ repository:
 
 # Labels: define labels for Issues and Pull Requests
 labels:
-  - name: bug
+  - name: "bug"
     color: c10000
-  - name: :nerd_face: 4geeks student
+  - name: ":nerd_face: 4geeks student"
     color: 7057ff
-  - name: enhancement
+  - name: "enhancement"
     color: a2eeef
-  - name: first-timers-only
+  - name: "first-timers-only"
     color: 69db89
-  - name: good first issue
+  - name: "good first issue"
     color: 7057ff
-  - name: help wanted
+  - name: "help wanted"
     color: 008672
-  - name: :star: P1
+  - name: ":star: P1"
     color: fbca04
-  - name: :star: P2
+  - name: ":star: P2"
     color: fbca04
