@@ -1,4 +1,4 @@
-
+> :warning: This guide is still under development.
 # Contributing as a BreatheCode Writer
 
 Tag: `bc-writter`
@@ -35,5 +35,5 @@ Hi! :smile: Thanks for helping us to conceptualize and explain all BreatheCode p
 **NOTES**:
 If a change addresses an issue, include a line: `Fixes #<issue number>`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5ODM3MTUyXX0=
+eyJoaXN0b3J5IjpbNjUyMDg1ODQzXX0=
 -->
