@@ -7,7 +7,7 @@ Initial release v0.1 (alfa)
 - [ ] Contribution Template for *BreatheCode Coder*
 - [ ] Contribution Template for *BreatheCode Inspector & Debugger*
 - [ ] How to create a pull request.
-- [ ] At the top of each manual add the github-shield badge for that tag (e.g: 
+- [ ] At the top of each manual add the [github-shield badge](https://shields.io/#/) for that tag. E.g: ![BreatheCode Writter](https://img.shields.io/badge/label-bc--writter-blue.svg?link=https://github.com/search?q=label%3Abc-writter)
 - [ ] Merge the bc-debugger manual with the bc-inspector.
 - [ ] Terminal manual de how to start diciendo lo siguiente:
 	- [ ] Explain the tags in a brief way.
@@ -17,5 +17,5 @@ Initial release v0.1 (alfa)
 ## Updates coming to v2.0
 - [ ] CLA Agreement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTQwNDgzOF19
+eyJoaXN0b3J5IjpbLTE3NTM0NDYwMThdfQ==
 -->
