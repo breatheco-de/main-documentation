@@ -21,9 +21,9 @@ These additional tags are not used inside the breathecode community but are very
 
 # Ready to start contributing?
 
-If you want to code, look for issues with `bc-coder` tag [here](https://github.com/search?q=is%3Aopen+label%3A%22bc-coder%22).
-If you want to write, look for issues with `bc-writter` tag [here](https://github.com/search?q=is%3Aopen+label%3A%22bc-writter%22).
-If you are a 4Geeks Student [this issues are made just for you](https://github.com/search?q=is%3Aopen+label%3A%22%3Anerd_face%3A+4geeks+student%22).
+1. If you want to code, look for issues with `bc-coder` tag [here](https://github.com/search?q=is%3Aopen+label%3A%22bc-coder%22).
+2. If you want to write, look for issues with `bc-writter` tag [here](https://github.com/search?q=is%3Aopen+label%3A%22bc-writter%22).
+3. If you are a 4Geeks Student [this issues are made just for you](https://github.com/search?q=is%3Aopen+label%3A%22%3Anerd_face%3A+4geeks+student%22).
 
 Use any of the other tags to help narrow your search!
 
