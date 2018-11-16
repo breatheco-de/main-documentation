@@ -1,6 +1,8 @@
 # How to contribute to this project
 
-This project was build in gatsby.js v2
+```
+Add the project technologies and technical specifications here in a breif way.
+```
 
 To contribut first pick the issue that you would like to resolve. Please don't resolve anything that its not an issue, if you would like to propose new enhancementes create the issue first to discuss it with the project mantainers and other members of the community.
 
