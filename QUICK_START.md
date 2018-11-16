@@ -6,12 +6,12 @@ All contributions are documented as [github issues](https://guides.github.com/fe
 
 | Tag name          | Description |
 | ----              | -------     |
-| first-timers-only | Well documented issues for anyone that has not contributed before |
-| help-wanted       | It means it will not be resolved by any formal member of the project, its an invitation for outsiders to contribute |
-| 4geeks-student    | This tag is used to welcome 4Geeks Academy students to the issue |
-| bc-writter        | It means that the issue is for writting/fixing specs or documentation (no need of coding skills) |
-| bc-coder          | you need coding skills to resolve the issue |
-| bc-inspector      | it means they are very open for people testing the project/app/library and giving feedback |
+| `first-timers-only` | Well documented issues for anyone that has not contributed before |
+| `help-wanted`       | It means it will not be resolved by any formal member of the project, its an invitation for outsiders to contribute |
+| `4geeks-student`    | This tag is used to welcome 4Geeks Academy students to the issue |
+| `bc-writter`        | It means that the issue is for writting/fixing specs or documentation (no need of coding skills), [here is more info about the bc-writter tag](https://github.com/breatheco-de/main-documentation/blob/master/Contribution_Manuals/BreatheCode_Writer.md) |
+| `bc-coder`          | you need coding skills to resolve the issue, [here is more info about the bc-coder tag](https://github.com/breatheco-de/main-documentation/blob/master/Contribution_Manuals/BreatheCode_Coder.md) |
+| `bc-inspector`      | it means they are very open for people testing the project/app/library and giving feedback, [here is more info about the bc-inspector tag](https://github.com/breatheco-de/main-documentation/blob/master/Contribution_Manuals/BreatheCode_Inspector.md) |
 
 These additional tags are not used inside the breathecode community but are very popular open source, look for them if you would like to contribute somwhere else.
 
