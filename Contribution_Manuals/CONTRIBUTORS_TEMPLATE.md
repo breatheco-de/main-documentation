@@ -12,7 +12,7 @@ Fork this project and clone it to have it on your local envirnoment.
 
 Fix the issue and then Pull Request.
 
-# Proyect requierments
+# Project requierments
 
 - Node.js v8+
 
