@@ -37,3 +37,8 @@ pathlist = Path('.').glob('**/*.md')
 for path in pathlist:
     pathStrings = str(path)
     md_scraper(pathStrings)
+
+pathlist = Path('.').glob('**/*.json')
+for path in pathlist:
+    pathStrings = str(path)
+    md_scraper(pathStrings)
