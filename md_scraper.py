@@ -1,3 +1,7 @@
+## syntax: python3 md_scraper.py
+## This will scrape links from each md or json file it finds in
+## all subdirectories and test them via the Requests package.
+
 import requests
 import re
 from pathlib import Path
@@ -10,7 +14,6 @@ def md_scraper(fileToWork):
     mdHandler = open(fileToWork)
     urlList = []
     for line in mdHandler:
-        #if len(findLinksMore(line)) > 3:
         urlsFound = findLinksMore(line)
         if len(urlsFound) != 0:
             urlList.append(re.sub('[\>\)\"\'\?\[\]\*]','',str(urlsFound)))
