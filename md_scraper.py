@@ -19,7 +19,7 @@ def md_scraper(fileToWork):
         if len(urlsFound) != 0:
             urlList.append(re.sub('[\>\)\"\'\?\[\]\*]','',str(urlsFound)))
 
-    print('\n**results of scraping',fileToWork+'**\n')
+    print('\nScraping: ',fileToWork)
 
     for element in urlList:
         while element.find(',') != -1:
@@ -66,7 +66,7 @@ for path in pathlist:
 if len(total_errors) > 0:
     print(str(len(total_errors)) + " errors where found.")
     for error in total_errors:
-        print(error["file"]+": "+error["code"]+ " -> " +error["url"])
+        print(error["file"]+": "+str(error["code"])+ " -> " +error["url"])
     exit(1)
 else:
     print("SUCCESS: No errors were found in "+ str(total_links) + " files")
