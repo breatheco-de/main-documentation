@@ -13,6 +13,7 @@ def findLinksMore(textOfFile):
 def md_scraper(fileToWork):
     mdHandler = open(fileToWork)
     urlList = []
+    errors = []
     for line in mdHandler:
         urlsFound = findLinksMore(line)
         if len(urlsFound) != 0:
@@ -34,14 +35,39 @@ def md_scraper(fileToWork):
             verboseResponse = '200 : OK'
         else:
             verboseResponse = str(md_response.status_code) + ' : Bad'
-        print(element,verboseResponse)
+            errors.insert({ 
+                "url": element,
+                "file": fileToWork,
+                "code": md_response.status_code
+            })
+        #print(element,verboseResponse)
+    
+    return { 
+        "errors": errors
+        "total_links": len(urlList)
+    }
 
 pathlist = Path('.').glob('**/*.md')
+total_errors = []
+total_links = 0
 for path in pathlist:
     pathStrings = str(path)
-    md_scraper(pathStrings)
+    result = md_scraper(pathStrings)
+    total_errors = total_errors + result["errors"]
+    total_links = total_links + result["total_links"]
 
 pathlist = Path('.').glob('**/*.json')
 for path in pathlist:
     pathStrings = str(path)
-    md_scraper(pathStrings)
+    result = md_scraper(pathStrings)
+    total_errors = total_errors + result["errors"]
+    total_links = total_links + result["total_links"]
+    
+if len(total_errors) > 0:
+    print(str(len(total_errors)) + " errors where found.")
+    for error in total_errors:
+        print(error["file"]+": "+error["code"]+ " -> " +error["url"])
+    exit(1)
+else:
+    print("SUCCESS: No errors were found in "+ str(len(total_links)) + " files")
+    exit(0)
