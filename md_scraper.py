@@ -35,7 +35,7 @@ def md_scraper(fileToWork):
             verboseResponse = '200 : OK'
         else:
             verboseResponse = str(md_response.status_code) + ' : Bad'
-            errors.insert({ 
+            errors.append({ 
                 "url": element,
                 "file": fileToWork,
                 "code": md_response.status_code
