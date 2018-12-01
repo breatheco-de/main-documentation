@@ -43,7 +43,7 @@ def md_scraper(fileToWork):
         #print(element,verboseResponse)
     
     return { 
-        "errors": errors
+        "errors": errors,
         "total_links": len(urlList)
     }
 
@@ -69,5 +69,5 @@ if len(total_errors) > 0:
         print(error["file"]+": "+error["code"]+ " -> " +error["url"])
     exit(1)
 else:
-    print("SUCCESS: No errors were found in "+ str(len(total_links)) + " files")
+    print("SUCCESS: No errors were found in "+ str(total_links) + " files")
     exit(0)
