@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 def findLinksMore(textOfFile):
-    url = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\), ]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', textOfFile)
+    url = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\), ]|(\?:%[0-9a-fA-F][0-9a-fA-F]))+', textOfFile)
     return url
 
 def md_scraper(fileToWork):
@@ -19,7 +19,7 @@ def md_scraper(fileToWork):
         if len(urlsFound) != 0:
             urlList.append(re.sub('[\>\)\"\'\?\[\]\*]','',str(urlsFound)))
 
-    print('\nScraping: ',fileToWork)
+    print('Scraping: ',fileToWork)
 
     for element in urlList:
         while element.find(',') != -1:
