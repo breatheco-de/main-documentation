@@ -1,9 +1,11 @@
 <p align="center"><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,128"></p>
 <h1 align="center"> Welcome to BreatheCode </h1>
 
-Hello, my name is :blush: [Alejandro Sanchez](https://alesanchezr.com) I'm the founder of BreatheCode, thank you for taking the time to read this!  :smile:
+Hello, my name is :blush: [Alejandro Sanchez](https://alesanchezr.com) I'm one of the founders of BreatheCode, thank you for taking the time to read this!  :smile:
 
-> BreatheCode's mission is to **accelerate the way junior developers learn and evolve** using technology.
+If you are curios about breathecode this is our mission:
+
+> Use te**Accelerate the way junior developers learn and evolve** using technology.
 
 ### BreatheCode's code is divided in 4 main verticals:
 - **Tools**: Stuff you can download and use to learn how to build software faster.
@@ -58,11 +60,11 @@ Very focused libraries to resolve recurring issues during developments.
 | [Platform API](https://api.breatheco.de) | The API for the LMS, it manages students, courses, etc. | EloquentORM, PHP, SlimPHP, MySQL, JSON, REST |
 | [Assets API](https://assets.breatheco.de) | Amazing resources for students (infographics, lessons, cheat-sheets, mock api's, etc). | PHP, Markdown, SlimPHP, SQLite, MySQL, Static Files, REST |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzODU5OTI4LDIwOTA5NDc3MzksLTg4ND
-MwNzg3LC0yMDc5ODk4MTQxLDkyNDA0NDY5LC0xODAwNTg2OTQw
-LC0xMzY0MTE0NjcxLDE1MTQxMjQ1MTAsMTU1NzQ1Njc3MSwxOD
-Y4MTUzNTgwLDE2NzY4NDI1OTgsMTI3Mzc0MjY5MCwtMTc4MDMz
-ODU0OCwtMTk4Nzk0NTgzMCwtMTM5MzM0MjYyNSwtMTMxMTg3OD
-AzNyw1MDY0MjE4NTcsLTEwOTIyOTA0NjgsMjAxNDUyNjUwOSwx
-NTAxNzI3MDA3XX0=
+eyJoaXN0b3J5IjpbLTE1NjAyMzgwMTIsODgzODU5OTI4LDIwOT
+A5NDc3MzksLTg4NDMwNzg3LC0yMDc5ODk4MTQxLDkyNDA0NDY5
+LC0xODAwNTg2OTQwLC0xMzY0MTE0NjcxLDE1MTQxMjQ1MTAsMT
+U1NzQ1Njc3MSwxODY4MTUzNTgwLDE2NzY4NDI1OTgsMTI3Mzc0
+MjY5MCwtMTc4MDMzODU0OCwtMTk4Nzk0NTgzMCwtMTM5MzM0Mj
+YyNSwtMTMxMTg3ODAzNyw1MDY0MjE4NTcsLTEwOTIyOTA0Njgs
+MjAxNDUyNjUwOV19
 -->
