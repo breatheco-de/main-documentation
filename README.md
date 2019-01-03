@@ -9,9 +9,9 @@ If you are curios about breathecode this is our mission:
 
 ### We can acomplish that by coding the following types of projects:
 - **Tools**: Stuff you can download and use to learn how to build software faster.
-- **Libraries**: Libraries targeted to make coding simpler: Session Management, Notifications, etc.
-- **Apps**: We build software for teaching purposes only.
-- **APIs**: Assets for teachers.
+- **Libraries**: Libraries targeted to make coding simpler.
+- **Apps**: BreatheCode has release a web app focused on e-learning and blended learning.
+
 > Thanks to the [breathecode-cli](https://github.com/breatheco-de/breathecode-cli) we where able to include a set of [recommended boilerplates](https://github.com/breatheco-de/breathecode-cli/blob/master/boilerplates.json) to bootstrap projects in different technologies.
 
 If you want to learn more about our current projects and developments look at the end of the document.
@@ -60,11 +60,11 @@ Very focused libraries to resolve recurring issues during developments.
 | [Platform API](https://api.breatheco.de) | The API for the LMS, it manages students, courses, etc. | EloquentORM, PHP, SlimPHP, MySQL, JSON, REST |
 | [Assets API](https://assets.breatheco.de) | Amazing resources for students (infographics, lessons, cheat-sheets, mock api's, etc). | PHP, Markdown, SlimPHP, SQLite, MySQL, Static Files, REST |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTU1ODk4NSw4ODM4NTk5MjgsMjA5MD
-k0NzczOSwtODg0MzA3ODcsLTIwNzk4OTgxNDEsOTI0MDQ0Njks
-LTE4MDA1ODY5NDAsLTEzNjQxMTQ2NzEsMTUxNDEyNDUxMCwxNT
-U3NDU2NzcxLDE4NjgxNTM1ODAsMTY3Njg0MjU5OCwxMjczNzQy
-NjkwLC0xNzgwMzM4NTQ4LC0xOTg3OTQ1ODMwLC0xMzkzMzQyNj
-I1LC0xMzExODc4MDM3LDUwNjQyMTg1NywtMTA5MjI5MDQ2OCwy
-MDE0NTI2NTA5XX0=
+eyJoaXN0b3J5IjpbODU0OTkyNTA5LDg4Mzg1OTkyOCwyMDkwOT
+Q3NzM5LC04ODQzMDc4NywtMjA3OTg5ODE0MSw5MjQwNDQ2OSwt
+MTgwMDU4Njk0MCwtMTM2NDExNDY3MSwxNTE0MTI0NTEwLDE1NT
+c0NTY3NzEsMTg2ODE1MzU4MCwxNjc2ODQyNTk4LDEyNzM3NDI2
+OTAsLTE3ODAzMzg1NDgsLTE5ODc5NDU4MzAsLTEzOTMzNDI2Mj
+UsLTEzMTE4NzgwMzcsNTA2NDIxODU3LC0xMDkyMjkwNDY4LDIw
+MTQ1MjY1MDldfQ==
 -->
