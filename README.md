@@ -5,11 +5,11 @@ Hello, my name is :blush: [Alejandro Sanchez](https://alesanchezr.com) I'm one o
 
 If you are curios about breathecode this is our mission:
 
-> Use te**Accelerate the way junior developers learn and evolve** using technology.
+> Use technology to **Accelerate the way junior developers learn and evolve**.
 
-### BreatheCode's code is divided in 4 main verticals:
+### We can acomplish that by coding the following types of projects:
 - **Tools**: Stuff you can download and use to learn how to build software faster.
-- **Libraries**: Some libraries targeted to fix recurrent coding challenges like: Session Management, Notifications, etc.
+- **Libraries**: Libraries targeted to make coding simpler: Session Management, Notifications, etc.
 - **Apps**: We build software for teaching purposes only.
 - **APIs**: Assets for teachers.
 > Thanks to the [breathecode-cli](https://github.com/breatheco-de/breathecode-cli) we where able to include a set of [recommended boilerplates](https://github.com/breatheco-de/breathecode-cli/blob/master/boilerplates.json) to bootstrap projects in different technologies.
@@ -60,11 +60,11 @@ Very focused libraries to resolve recurring issues during developments.
 | [Platform API](https://api.breatheco.de) | The API for the LMS, it manages students, courses, etc. | EloquentORM, PHP, SlimPHP, MySQL, JSON, REST |
 | [Assets API](https://assets.breatheco.de) | Amazing resources for students (infographics, lessons, cheat-sheets, mock api's, etc). | PHP, Markdown, SlimPHP, SQLite, MySQL, Static Files, REST |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjAyMzgwMTIsODgzODU5OTI4LDIwOT
-A5NDc3MzksLTg4NDMwNzg3LC0yMDc5ODk4MTQxLDkyNDA0NDY5
-LC0xODAwNTg2OTQwLC0xMzY0MTE0NjcxLDE1MTQxMjQ1MTAsMT
-U1NzQ1Njc3MSwxODY4MTUzNTgwLDE2NzY4NDI1OTgsMTI3Mzc0
-MjY5MCwtMTc4MDMzODU0OCwtMTk4Nzk0NTgzMCwtMTM5MzM0Mj
-YyNSwtMTMxMTg3ODAzNyw1MDY0MjE4NTcsLTEwOTIyOTA0Njgs
-MjAxNDUyNjUwOV19
+eyJoaXN0b3J5IjpbLTI5OTU1ODk4NSw4ODM4NTk5MjgsMjA5MD
+k0NzczOSwtODg0MzA3ODcsLTIwNzk4OTgxNDEsOTI0MDQ0Njks
+LTE4MDA1ODY5NDAsLTEzNjQxMTQ2NzEsMTUxNDEyNDUxMCwxNT
+U3NDU2NzcxLDE4NjgxNTM1ODAsMTY3Njg0MjU5OCwxMjczNzQy
+NjkwLC0xNzgwMzM4NTQ4LC0xOTg3OTQ1ODMwLC0xMzkzMzQyNj
+I1LC0xMzExODc4MDM3LDUwNjQyMTg1NywtMTA5MjI5MDQ2OCwy
+MDE0NTI2NTA5XX0=
 -->
