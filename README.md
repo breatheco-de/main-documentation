@@ -12,16 +12,16 @@ If you are curios about breathecode this is our mission:
 - **Libraries**: Libraries targeted to make coding simpler.
 - **Apps**: We have published [https://breatheco.de/](https://breatheco.de/) focused on e-learning and blended learning, we expect to release mobile apps eventually as well.
 
-> Using one of our projects (T[breathecode-cli](https://github.com/breatheco-de/breathecode-cli)) we where able to include a set of [recommended boilerplates](https://github.com/breatheco-de/breathecode-cli/blob/master/boilerplates.json) to bootstrap projects in different technologies.
+> Using one of our projects (The [Breathecode CLI](https://github.com/breatheco-de/breathecode-cli)) we where able to include a set of [recommended boilerplates](https://github.com/breatheco-de/breathecode-cli/blob/master/boilerplates.json) to get started in different technologies with just a few steps.
 
 If you want to learn more about our current projects and developments look at the end of the document.
 
 ## Are you here to contribute?
-Great! You can contribute to BreatheCode in four different ways:
-- **BreatheCode Coder**: Join the development of any particular project, the majority of our repositories are being actively maintain and with new versions on the pipeline. Read this [if you want to become a **BreatheCode Coder**](#).
+
+Great! You can contribute to BreatheCode in 3 different ways:
+- **Coding**: Join the development of any particular project, the majority of our repositories are being actively maintain and with new versions on the pipeline. Read this [if you want to become a **BreatheCode Coder**](#).
 - **BreatheCode Writer**: Help us explain everything to the community: What projects are available? how do they work? how to use them? Here is a more detailed guide you should read if you want to [become a **BreatheCode Writer**](#).
 - **BreatheCode Inspector**: Report issues you find on the application or any improvements you would like. Here is how to report a bug or request a new feature on any of **BreatheCode projects**.
-- **BreatheCode Fixer**: There are a lot of issues revolving around our libraries, it is really hard fix them all and more keep showing up :disappointed_relieved: Here is a small guide on how to help us solve bugs!
 
 ## Our current projects
 
@@ -60,7 +60,7 @@ Very focused libraries to resolve recurring issues during developments.
 | [Platform API](https://api.breatheco.de) | The API for the LMS, it manages students, courses, etc. | EloquentORM, PHP, SlimPHP, MySQL, JSON, REST |
 | [Assets API](https://assets.breatheco.de) | Amazing resources for students (infographics, lessons, cheat-sheets, mock api's, etc). | PHP, Markdown, SlimPHP, SQLite, MySQL, Static Files, REST |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTc4MTU4MCw4ODM4NTk5MjgsMjA5MD
+eyJoaXN0b3J5IjpbLTY1NjAyODUwNiw4ODM4NTk5MjgsMjA5MD
 k0NzczOSwtODg0MzA3ODcsLTIwNzk4OTgxNDEsOTI0MDQ0Njks
 LTE4MDA1ODY5NDAsLTEzNjQxMTQ2NzEsMTUxNDEyNDUxMCwxNT
 U3NDU2NzcxLDE4NjgxNTM1ODAsMTY3Njg0MjU5OCwxMjczNzQy
