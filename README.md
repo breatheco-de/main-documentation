@@ -23,6 +23,8 @@ Great! You can contribute to BreatheCode in 3 different ways:
 - **Writing**: Help us explain everything to the community: What projects are available? how do they work? how to use them? Here is a more detailed guide you should read if you want to [become a **BreatheCode Writer**](#).
 - **Report Bugs**: Report issues you find on the application or any improvements you would like. Here is how to report a bug or request a new feature on any of **BreatheCode projects**.
 
+Note: If you are eager to contriubte you can go straight to our [Quick Start Guide to contribute in BreatheCode](https://github.com/breatheco-de/main-documentation/blob/master/QUICK_START.md).
+
 ## Our current projects
 
 These are the 3 types of projects in which the BreatheCode is divided:
@@ -54,7 +56,7 @@ Very focused libraries to resolve recurring issues during developments.
  | [Admin Web Client](https://github.com/breatheco-de/admin-client) | Manage BreathCode students, teachers, etc. | React.js, CSS, Sass, HTML |
 | [Assets API](https://assets.breatheco.de) | Amazing resources for students (infographics, lessons, cheat-sheets, mock api's, etc). | PHP, Markdown, SlimPHP, SQLite, MySQL, Static Files, REST |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQxNzI3MjEsODgzODU5OTI4LDIwOT
+eyJoaXN0b3J5IjpbLTE5OTQyMjk0MjUsODgzODU5OTI4LDIwOT
 A5NDc3MzksLTg4NDMwNzg3LC0yMDc5ODk4MTQxLDkyNDA0NDY5
 LC0xODAwNTg2OTQwLC0xMzY0MTE0NjcxLDE1MTQxMjQ1MTAsMT
 U1NzQ1Njc3MSwxODY4MTUzNTgwLDE2NzY4NDI1OTgsMTI3Mzc0
