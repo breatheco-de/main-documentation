@@ -2,7 +2,7 @@
 
 All breathecode's mantainers are always making a great effort to create and document all the projects issues so that anyone can contribute without hessitance.
 
-All contributions are documented as [github issues](https://guides.github.com/features/issues/) and issues tagged with any of these possible tags:
+[These are all the contributions BreatheCode is looking for right now](https://github.com/search?q=org%3Abreatheco-de+label%3A%22help+wanted%22&type=Issues). All contributions are documented as [github issues](https://guides.github.com/features/issues/) and issues tagged with any of these possible tags:
 
 | Tag name          | Description |
 | ----              | -------     |
