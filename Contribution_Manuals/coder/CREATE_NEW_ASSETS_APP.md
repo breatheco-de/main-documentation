@@ -6,6 +6,11 @@ The mayority of breatheco.de functionalities are developed on `assets apps`, an 
 
 Start coding your application based on [the following boilerplate](https://github.com/4GeeksAcademy/react-hello).
 
+### Library
+
+Coding a breathecode app its a lot easier if you use the breathecode react components, please use them:
+https://github.com/breatheco-de/react-components
+
 ### Using react-router:
 
 Assets application are always published under the `apps` subdirectory like this:
