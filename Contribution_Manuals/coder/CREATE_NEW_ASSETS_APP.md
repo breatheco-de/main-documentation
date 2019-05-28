@@ -16,7 +16,7 @@ And that has to be considered if you plan to use React Router, you will have to 
 
 ### Security Tokens:
 
-If you need to communicate with the BreatheCode API's you will receive the user session tokens as URL variables like this:
+If you need to communicate with the BreatheCode API's you will receive the user session tokens as Query String variables, `assets_token` and `bc_token` like this:
 ```
-https://assets.breatheco.de/apps/stream-maker?assets_token=<token>& bc_token=<token2>
+https://assets.breatheco.de/apps/your-app?assets_token=<token>& bc_token=<token2>
 ```
