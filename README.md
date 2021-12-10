@@ -30,7 +30,7 @@ In real life you use a lot of tools to code, like: Git, NPM, etc. We have propos
 
  | Project 		| Description | Technologies |
  | ---------- 	| -------------- | ---------------- |
- | [C9 Plugin](https://github.com/breatheco-de/c9-plugin) | Cloud 9 is a great IDE for junior developers because it allows you to work with very few configurations on an isolated machine. We have created a plugin to enhance the Cloud 9 coding IDE as well as the integragtion with all the other BreatheCode projects. | Node.js, Bash, JSON |
+ | [C9 Plugin](https://github.com/breatheco-de/c9-plugin) | Cloud 9 is a great IDE for junior developers because it allows you to work with very few configurations on an isolated machine. We have created a plugin to enhance the Cloud 9 coding IDE as well as the integration with all the other BreatheCode projects. | Node.js, Bash, JSON |
 | [BreatheCode CLI](https://github.com/breatheco-de/breathecode-cli) | Command Line interface to connect with lots of useful stuff like access to boilerplates, exercises, builders, etc. | Node.js Bash, JSON |
 
 ### 2. Libraries:
