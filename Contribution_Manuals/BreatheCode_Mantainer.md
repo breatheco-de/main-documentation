@@ -1,10 +1,10 @@
 > :warning: This guide is still under development.
 
-Label: The mantainer doest not have a tag, the mantainer is the one putting the tags :smile:
+Label: The maintainer doesn't not have a tag, the maintainer is the one putting the tags :smile:
 
 ## Mantaining the repositories
 
-The BreatheCode Mantainers are the gas that fuels the entire open source community. The have to make sure that all the issues, code and documents.
+The BreatheCode Maintainers are the gas that fuels the entire open source community. The have to make sure that all the issues, code and documents.
 
 Example issue:
 https://github.com/4GeeksAcademy/react-exercises/issues/6
