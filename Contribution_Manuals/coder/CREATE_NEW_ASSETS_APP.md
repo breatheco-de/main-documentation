@@ -1,6 +1,6 @@
 # Guide to create an App for Assets.BreatheCo.de
 
-The mayority of breatheco.de functionalities are developed on `assets apps`, an `asset app` is basically a small application with a particular purpose, [these are some examples of applications](https://github.com/breatheco-de/assets/blob/master/docs/Apps.md) already published under the assets repository.
+The majority of breatheco.de functionalities are developed on `assets apps`, an `asset app` is basically a small application with a particular purpose, [these are some examples of applications](https://github.com/breatheco-de/assets/blob/master/docs/Apps.md) already published under the assets repository.
 
 ### Boilerplate
 
