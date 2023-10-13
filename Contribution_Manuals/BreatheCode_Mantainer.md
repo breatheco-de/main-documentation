@@ -2,7 +2,7 @@
 
 Label: The mantainer doest not have a tag, the mantainer is the one putting the tags :smile:
 
-## Mantaining the repositories
+## Maintaining the repositories
 
 The BreatheCode Mantainers are the gas that fuels the entire open source community. The have to make sure that all the issues, code and documents.
 
